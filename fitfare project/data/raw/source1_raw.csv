@@ -1,0 +1,501 @@
+﻿ID,Fitness Centre Name,Address,Area / Locality,City,Rating,Number of Reviews,Category / Type,Phone Number,Email Address,Website / Social URL,Operating Hours,Price Range
+1,Fitness Centre 51,"74, Main Road, Bengaluru",Indiranagar,Bengaluru,4.4,1256,Yoga Studio,+91 9876519721,fit51@example.com,https://fitness51.example.com,7 AM - 9 PM,Budget
+2,Fitness Centre 52,"95, Main Road, Bengaluru",BTM Layout,Bengaluru,4.5,2054,Gym / Fitness Studio,+91 9876596424,fit52@example.com,https://fitness52.example.com,5 AM - 11 PM,Mid
+3,Fitness Centre 53,"38, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,1704,Dance / Zumba Studio,+91 9876575682,fit53@example.com,https://fitness53.example.com,7 AM - 9 PM,Mid
+4,Fitness Centre 54,"12, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,2000,CrossFit Box,+91 9876526221,fit54@example.com,https://fitness54.example.com,6 AM - 10 PM,Premium
+5,Fitness Centre 55,"24, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,2286,Yoga Studio,+91 9876538233,fit55@example.com,https://fitness55.example.com,24 Hours,Budget
+6,Fitness Centre 56,"18, Main Road, Bengaluru",Indiranagar,Bengaluru,4.5,1909,Gym / Fitness Studio,+91 9876557262,fit56@example.com,https://fitness56.example.com,6 AM - 10 PM,Mid
+7,Fitness Centre 57,"5, Main Road, Bengaluru",HSR Layout,Bengaluru,4,777,Gym / Fitness Studio,+91 9876512021,fit57@example.com,https://fitness57.example.com,7 AM - 9 PM,Budget
+8,Fitness Centre 58,"88, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,1707,Yoga Studio,+91 9876591175,fit58@example.com,https://fitness58.example.com,7 AM - 9 PM,Budget
+9,Fitness Centre 59,"39, Main Road, Bengaluru",Koramangala,Bengaluru,4.7,926,CrossFit Box,+91 9876524861,fit59@example.com,https://fitness59.example.com,6 AM - 10 PM,Mid
+10,Fitness Centre 60,"10, Main Road, Bengaluru",Whitefield,Bengaluru,4.8,601,Dance / Zumba Studio,+91 9876588080,fit60@example.com,https://fitness60.example.com,24 Hours,Premium
+11,Fitness Centre 61,"49, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,2146,Gym / Fitness Studio,+91 9876558513,fit61@example.com,https://fitness61.example.com,6 AM - 10 PM,Premium
+12,Fitness Centre 62,"8, Main Road, Bengaluru",HSR Layout,Bengaluru,4.7,1003,Dance / Zumba Studio,+91 9876590768,fit62@example.com,https://fitness62.example.com,5 AM - 11 PM,Mid
+13,Fitness Centre 63,"73, Main Road, Bengaluru",HSR Layout,Bengaluru,4.6,1059,Yoga Studio,+91 9876517599,fit63@example.com,https://fitness63.example.com,6 AM - 10 PM,Mid
+14,Fitness Centre 64,"81, Main Road, Bengaluru",Koramangala,Bengaluru,4.8,1220,CrossFit Box,+91 9876572148,fit64@example.com,https://fitness64.example.com,7 AM - 9 PM,Mid
+15,Fitness Centre 65,"25, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,1785,CrossFit Box,+91 9876521670,fit65@example.com,https://fitness65.example.com,7 AM - 9 PM,Mid
+16,Fitness Centre 66,"43, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,1469,CrossFit Box,+91 9876527016,fit66@example.com,https://fitness66.example.com,24 Hours,Mid
+17,Fitness Centre 67,"59, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,1338,Dance / Zumba Studio,+91 9876582956,fit67@example.com,https://fitness67.example.com,6 AM - 10 PM,Premium
+18,Fitness Centre 68,"49, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,1135,Yoga Studio,+91 9876555994,fit68@example.com,https://fitness68.example.com,7 AM - 9 PM,Mid
+19,Fitness Centre 69,"46, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1160,Yoga Studio,+91 9876585446,fit69@example.com,https://fitness69.example.com,24 Hours,Premium
+20,Fitness Centre 70,"29, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,514,Gym / Fitness Studio,+91 9876589929,fit70@example.com,https://fitness70.example.com,7 AM - 9 PM,Premium
+21,Fitness Centre 71,"1, Main Road, Bengaluru",Whitefield,Bengaluru,4,1350,Dance / Zumba Studio,+91 9876533786,fit71@example.com,https://fitness71.example.com,6 AM - 10 PM,Mid
+22,Fitness Centre 72,"89, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,2094,Gym / Fitness Studio,+91 9876525129,fit72@example.com,https://fitness72.example.com,24 Hours,Mid
+23,Fitness Centre 73,"30, Main Road, Bengaluru",Jayanagar,Bengaluru,3.8,1524,Gym / Fitness Studio,+91 9876536972,fit73@example.com,https://fitness73.example.com,7 AM - 9 PM,Premium
+24,Fitness Centre 74,"67, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,1386,Yoga Studio,+91 9876561116,fit74@example.com,https://fitness74.example.com,7 AM - 9 PM,Mid
+25,Fitness Centre 75,"82, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,1031,Yoga Studio,+91 9876572394,fit75@example.com,https://fitness75.example.com,5 AM - 11 PM,Budget
+26,Fitness Centre 76,"96, Main Road, Bengaluru",HSR Layout,Bengaluru,4.6,2255,CrossFit Box,+91 9876572864,fit76@example.com,https://fitness76.example.com,24 Hours,Premium
+27,Fitness Centre 77,"75, Main Road, Bengaluru",Whitefield,Bengaluru,4.3,1910,Gym / Fitness Studio,+91 9876535632,fit77@example.com,https://fitness77.example.com,5 AM - 11 PM,Mid
+28,Fitness Centre 78,"75, Main Road, Bengaluru",BTM Layout,Bengaluru,4.4,540,CrossFit Box,+91 9876538675,fit78@example.com,https://fitness78.example.com,5 AM - 11 PM,Budget
+29,Fitness Centre 79,"51, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,2019,Yoga Studio,+91 9876529811,fit79@example.com,https://fitness79.example.com,24 Hours,Mid
+30,Fitness Centre 80,"97, Main Road, Bengaluru",BTM Layout,Bengaluru,4.2,837,CrossFit Box,+91 9876540876,fit80@example.com,https://fitness80.example.com,6 AM - 10 PM,Mid
+31,Fitness Centre 81,"47, Main Road, Bengaluru",Jayanagar,Bengaluru,4.6,2111,Gym / Fitness Studio,+91 9876533845,fit81@example.com,https://fitness81.example.com,7 AM - 9 PM,Premium
+32,Fitness Centre 82,"69, Main Road, Bengaluru",Jayanagar,Bengaluru,4,935,Yoga Studio,+91 9876553801,fit82@example.com,https://fitness82.example.com,5 AM - 11 PM,Premium
+33,Fitness Centre 83,"42, Main Road, Bengaluru",Whitefield,Bengaluru,3.8,609,Gym / Fitness Studio,+91 9876537487,fit83@example.com,https://fitness83.example.com,6 AM - 10 PM,Budget
+34,Fitness Centre 84,"33, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,1352,Dance / Zumba Studio,+91 9876586952,fit84@example.com,https://fitness84.example.com,5 AM - 11 PM,Budget
+35,Fitness Centre 85,"99, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,1379,Gym / Fitness Studio,+91 9876572735,fit85@example.com,https://fitness85.example.com,5 AM - 11 PM,Budget
+36,Fitness Centre 86,"87, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,1707,Yoga Studio,+91 9876542976,fit86@example.com,https://fitness86.example.com,7 AM - 9 PM,Budget
+37,Fitness Centre 87,"64, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,1208,Dance / Zumba Studio,+91 9876578168,fit87@example.com,https://fitness87.example.com,6 AM - 10 PM,Premium
+38,Fitness Centre 88,"8, Main Road, Bengaluru",HSR Layout,Bengaluru,4.7,2436,Dance / Zumba Studio,+91 9876558307,fit88@example.com,https://fitness88.example.com,6 AM - 10 PM,Mid
+39,Fitness Centre 89,"72, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,1210,Yoga Studio,+91 9876544574,fit89@example.com,https://fitness89.example.com,5 AM - 11 PM,Mid
+40,Fitness Centre 90,"16, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,562,Yoga Studio,+91 9876517909,fit90@example.com,https://fitness90.example.com,6 AM - 10 PM,Premium
+41,Fitness Centre 91,"48, Main Road, Bengaluru",Indiranagar,Bengaluru,4.4,2087,Dance / Zumba Studio,+91 9876521372,fit91@example.com,https://fitness91.example.com,6 AM - 10 PM,Premium
+42,Fitness Centre 92,"88, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,1389,Gym / Fitness Studio,+91 9876559511,fit92@example.com,https://fitness92.example.com,24 Hours,Premium
+43,Fitness Centre 93,"52, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,927,Gym / Fitness Studio,+91 9876594580,fit93@example.com,https://fitness93.example.com,5 AM - 11 PM,Mid
+44,Fitness Centre 94,"25, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,1292,CrossFit Box,+91 9876577144,fit94@example.com,https://fitness94.example.com,24 Hours,Premium
+45,Fitness Centre 95,"90, Main Road, Bengaluru",BTM Layout,Bengaluru,3.8,2255,Dance / Zumba Studio,+91 9876547163,fit95@example.com,https://fitness95.example.com,5 AM - 11 PM,Budget
+46,Fitness Centre 96,"87, Main Road, Bengaluru",Indiranagar,Bengaluru,3.8,1787,CrossFit Box,+91 9876576762,fit96@example.com,https://fitness96.example.com,7 AM - 9 PM,Mid
+47,Fitness Centre 97,"64, Main Road, Bengaluru",Jayanagar,Bengaluru,4.2,2493,Yoga Studio,+91 9876576750,fit97@example.com,https://fitness97.example.com,5 AM - 11 PM,Premium
+48,Fitness Centre 98,"4, Main Road, Bengaluru",Whitefield,Bengaluru,4.4,2218,Yoga Studio,+91 9876549888,fit98@example.com,https://fitness98.example.com,7 AM - 9 PM,Mid
+49,Fitness Centre 99,"37, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,1761,Yoga Studio,+91 9876521954,fit99@example.com,https://fitness99.example.com,6 AM - 10 PM,Premium
+50,Fitness Centre 100,"45, Main Road, Bengaluru",Koramangala,Bengaluru,3.9,2491,Gym / Fitness Studio,+91 9876582024,fit100@example.com,https://fitness100.example.com,6 AM - 10 PM,Premium
+51,Fitness Centre 101,"46, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,2023,Dance / Zumba Studio,+91 9876541638,fit101@example.com,https://fitness101.example.com,6 AM - 10 PM,Mid
+52,Fitness Centre 102,"41, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1485,Yoga Studio,+91 9876572332,fit102@example.com,https://fitness102.example.com,7 AM - 9 PM,Mid
+53,Fitness Centre 103,"94, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,1402,Gym / Fitness Studio,+91 9876544378,fit103@example.com,https://fitness103.example.com,5 AM - 11 PM,Budget
+54,Fitness Centre 104,"25, Main Road, Bengaluru",HSR Layout,Bengaluru,4,1262,Dance / Zumba Studio,+91 9876577736,fit104@example.com,https://fitness104.example.com,5 AM - 11 PM,Budget
+55,Fitness Centre 105,"69, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,1980,Dance / Zumba Studio,+91 9876599189,fit105@example.com,https://fitness105.example.com,7 AM - 9 PM,Mid
+56,Fitness Centre 106,"50, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,2145,Gym / Fitness Studio,+91 9876535902,fit106@example.com,https://fitness106.example.com,5 AM - 11 PM,Mid
+57,Fitness Centre 107,"79, Main Road, Bengaluru",Koramangala,Bengaluru,4.2,2126,Dance / Zumba Studio,+91 9876596111,fit107@example.com,https://fitness107.example.com,24 Hours,Premium
+58,Fitness Centre 108,"72, Main Road, Bengaluru",Whitefield,Bengaluru,4.2,2192,Gym / Fitness Studio,+91 9876591031,fit108@example.com,https://fitness108.example.com,6 AM - 10 PM,Premium
+59,Fitness Centre 109,"73, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,2375,CrossFit Box,+91 9876593811,fit109@example.com,https://fitness109.example.com,5 AM - 11 PM,Premium
+60,Fitness Centre 110,"45, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,2259,Gym / Fitness Studio,+91 9876512334,fit110@example.com,https://fitness110.example.com,5 AM - 11 PM,Premium
+61,Fitness Centre 111,"13, Main Road, Bengaluru",Whitefield,Bengaluru,4,2404,Dance / Zumba Studio,+91 9876547366,fit111@example.com,https://fitness111.example.com,5 AM - 11 PM,Premium
+62,Fitness Centre 112,"89, Main Road, Bengaluru",BTM Layout,Bengaluru,4.8,1892,Yoga Studio,+91 9876516579,fit112@example.com,https://fitness112.example.com,5 AM - 11 PM,Premium
+63,Fitness Centre 113,"29, Main Road, Bengaluru",Koramangala,Bengaluru,4.7,1393,CrossFit Box,+91 9876573779,fit113@example.com,https://fitness113.example.com,7 AM - 9 PM,Premium
+64,Fitness Centre 114,"60, Main Road, Bengaluru",Koramangala,Bengaluru,4.4,581,Dance / Zumba Studio,+91 9876576645,fit114@example.com,https://fitness114.example.com,7 AM - 9 PM,Budget
+65,Fitness Centre 115,"23, Main Road, Bengaluru",Whitefield,Bengaluru,4.8,1152,Dance / Zumba Studio,+91 9876533752,fit115@example.com,https://fitness115.example.com,5 AM - 11 PM,Premium
+66,Fitness Centre 116,"28, Main Road, Bengaluru",Indiranagar,Bengaluru,4.3,2435,Dance / Zumba Studio,+91 9876581809,fit116@example.com,https://fitness116.example.com,7 AM - 9 PM,Premium
+67,Fitness Centre 117,"90, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,712,Yoga Studio,+91 9876575002,fit117@example.com,https://fitness117.example.com,7 AM - 9 PM,Mid
+68,Fitness Centre 118,"10, Main Road, Bengaluru",Indiranagar,Bengaluru,4.4,918,Gym / Fitness Studio,+91 9876519619,fit118@example.com,https://fitness118.example.com,6 AM - 10 PM,Premium
+69,Fitness Centre 119,"17, Main Road, Bengaluru",BTM Layout,Bengaluru,4.8,1765,Gym / Fitness Studio,+91 9876547135,fit119@example.com,https://fitness119.example.com,7 AM - 9 PM,Premium
+70,Fitness Centre 120,"77, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,732,CrossFit Box,+91 9876536502,fit120@example.com,https://fitness120.example.com,24 Hours,Mid
+71,Fitness Centre 121,"10, Main Road, Bengaluru",Indiranagar,Bengaluru,4.5,1002,Yoga Studio,+91 9876578148,fit121@example.com,https://fitness121.example.com,6 AM - 10 PM,Premium
+72,Fitness Centre 122,"74, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,679,Dance / Zumba Studio,+91 9876534194,fit122@example.com,https://fitness122.example.com,5 AM - 11 PM,Mid
+73,Fitness Centre 123,"20, Main Road, Bengaluru",BTM Layout,Bengaluru,3.8,1563,Dance / Zumba Studio,+91 9876529184,fit123@example.com,https://fitness123.example.com,24 Hours,Budget
+74,Fitness Centre 124,"12, Main Road, Bengaluru",BTM Layout,Bengaluru,4.5,1983,Yoga Studio,+91 9876597139,fit124@example.com,https://fitness124.example.com,7 AM - 9 PM,Premium
+75,Fitness Centre 125,"3, Main Road, Bengaluru",Koramangala,Bengaluru,4.3,1239,Gym / Fitness Studio,+91 9876519511,fit125@example.com,https://fitness125.example.com,6 AM - 10 PM,Premium
+76,Fitness Centre 126,"46, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,1415,Dance / Zumba Studio,+91 9876566365,fit126@example.com,https://fitness126.example.com,5 AM - 11 PM,Budget
+77,Fitness Centre 127,"25, Main Road, Bengaluru",HSR Layout,Bengaluru,4.1,543,CrossFit Box,+91 9876583806,fit127@example.com,https://fitness127.example.com,7 AM - 9 PM,Premium
+78,Fitness Centre 128,"98, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,2423,Yoga Studio,+91 9876522922,fit128@example.com,https://fitness128.example.com,6 AM - 10 PM,Budget
+79,Fitness Centre 129,"1, Main Road, Bengaluru",Indiranagar,Bengaluru,3.9,2216,CrossFit Box,+91 9876514489,fit129@example.com,https://fitness129.example.com,24 Hours,Budget
+80,Fitness Centre 130,"23, Main Road, Bengaluru",Koramangala,Bengaluru,4,1939,Gym / Fitness Studio,+91 9876567388,fit130@example.com,https://fitness130.example.com,24 Hours,Premium
+81,Fitness Centre 131,"82, Main Road, Bengaluru",Indiranagar,Bengaluru,3.9,612,Yoga Studio,+91 9876558184,fit131@example.com,https://fitness131.example.com,5 AM - 11 PM,Mid
+82,Fitness Centre 132,"9, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,1264,Yoga Studio,+91 9876539864,fit132@example.com,https://fitness132.example.com,7 AM - 9 PM,Premium
+83,Fitness Centre 133,"66, Main Road, Bengaluru",BTM Layout,Bengaluru,4.7,698,Yoga Studio,+91 9876569696,fit133@example.com,https://fitness133.example.com,6 AM - 10 PM,Budget
+84,Fitness Centre 134,"4, Main Road, Bengaluru",BTM Layout,Bengaluru,4.1,922,Dance / Zumba Studio,+91 9876580348,fit134@example.com,https://fitness134.example.com,24 Hours,Budget
+85,Fitness Centre 135,"20, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,1315,Gym / Fitness Studio,+91 9876550728,fit135@example.com,https://fitness135.example.com,5 AM - 11 PM,Mid
+86,Fitness Centre 136,"55, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1247,Dance / Zumba Studio,+91 9876550925,fit136@example.com,https://fitness136.example.com,7 AM - 9 PM,Mid
+87,Fitness Centre 137,"78, Main Road, Bengaluru",HSR Layout,Bengaluru,4.1,598,Gym / Fitness Studio,+91 9876547413,fit137@example.com,https://fitness137.example.com,6 AM - 10 PM,Premium
+88,Fitness Centre 138,"68, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,2011,Gym / Fitness Studio,+91 9876538858,fit138@example.com,https://fitness138.example.com,5 AM - 11 PM,Premium
+89,Fitness Centre 139,"24, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,1330,Dance / Zumba Studio,+91 9876546842,fit139@example.com,https://fitness139.example.com,24 Hours,Budget
+90,Fitness Centre 140,"54, Main Road, Bengaluru",Whitefield,Bengaluru,4,1303,Yoga Studio,+91 9876541252,fit140@example.com,https://fitness140.example.com,7 AM - 9 PM,Premium
+91,Fitness Centre 141,"87, Main Road, Bengaluru",Jayanagar,Bengaluru,4.8,1151,Yoga Studio,+91 9876581757,fit141@example.com,https://fitness141.example.com,5 AM - 11 PM,Premium
+92,Fitness Centre 142,"93, Main Road, Bengaluru",Koramangala,Bengaluru,4,1989,Dance / Zumba Studio,+91 9876545643,fit142@example.com,https://fitness142.example.com,7 AM - 9 PM,Budget
+93,Fitness Centre 143,"41, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1198,Gym / Fitness Studio,+91 9876544045,fit143@example.com,https://fitness143.example.com,7 AM - 9 PM,Budget
+94,Fitness Centre 144,"27, Main Road, Bengaluru",HSR Layout,Bengaluru,4.6,713,CrossFit Box,+91 9876575312,fit144@example.com,https://fitness144.example.com,6 AM - 10 PM,Budget
+95,Fitness Centre 145,"86, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,2066,Gym / Fitness Studio,+91 9876534422,fit145@example.com,https://fitness145.example.com,7 AM - 9 PM,Mid
+96,Fitness Centre 146,"71, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,2407,Dance / Zumba Studio,+91 9876543305,fit146@example.com,https://fitness146.example.com,24 Hours,Premium
+97,Fitness Centre 147,"25, Main Road, Bengaluru",BTM Layout,Bengaluru,4.1,1650,CrossFit Box,+91 9876566770,fit147@example.com,https://fitness147.example.com,24 Hours,Premium
+98,Fitness Centre 148,"41, Main Road, Bengaluru",Whitefield,Bengaluru,4.2,950,CrossFit Box,+91 9876543780,fit148@example.com,https://fitness148.example.com,6 AM - 10 PM,Budget
+99,Fitness Centre 149,"15, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,999,Dance / Zumba Studio,+91 9876553010,fit149@example.com,https://fitness149.example.com,5 AM - 11 PM,Mid
+100,Fitness Centre 150,"11, Main Road, Bengaluru",Jayanagar,Bengaluru,3.9,1149,Dance / Zumba Studio,+91 9876551985,fit150@example.com,https://fitness150.example.com,7 AM - 9 PM,Premium
+101,Fitness Centre 151,"23, Main Road, Bengaluru",Indiranagar,Bengaluru,4,596,Yoga Studio,+91 9876546802,fit151@example.com,https://fitness151.example.com,7 AM - 9 PM,Premium
+102,Fitness Centre 152,"8, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,2334,CrossFit Box,+91 9876544459,fit152@example.com,https://fitness152.example.com,7 AM - 9 PM,Premium
+103,Fitness Centre 153,"26, Main Road, Bengaluru",Whitefield,Bengaluru,4.3,625,Gym / Fitness Studio,+91 9876596990,fit153@example.com,https://fitness153.example.com,24 Hours,Premium
+104,Fitness Centre 154,"95, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,787,CrossFit Box,+91 9876571935,fit154@example.com,https://fitness154.example.com,5 AM - 11 PM,Premium
+105,Fitness Centre 155,"94, Main Road, Bengaluru",BTM Layout,Bengaluru,4.1,819,Gym / Fitness Studio,+91 9876598817,fit155@example.com,https://fitness155.example.com,5 AM - 11 PM,Mid
+106,Fitness Centre 156,"3, Main Road, Bengaluru",HSR Layout,Bengaluru,4.2,2259,Dance / Zumba Studio,+91 9876549103,fit156@example.com,https://fitness156.example.com,6 AM - 10 PM,Mid
+107,Fitness Centre 157,"28, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,666,Gym / Fitness Studio,+91 9876535916,fit157@example.com,https://fitness157.example.com,7 AM - 9 PM,Budget
+108,Fitness Centre 158,"43, Main Road, Bengaluru",BTM Layout,Bengaluru,4.2,1301,Yoga Studio,+91 9876559538,fit158@example.com,https://fitness158.example.com,7 AM - 9 PM,Mid
+109,Fitness Centre 159,"78, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1409,Gym / Fitness Studio,+91 9876561188,fit159@example.com,https://fitness159.example.com,24 Hours,Budget
+110,Fitness Centre 160,"79, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,1100,CrossFit Box,+91 9876554943,fit160@example.com,https://fitness160.example.com,6 AM - 10 PM,Premium
+111,Fitness Centre 161,"78, Main Road, Bengaluru",Indiranagar,Bengaluru,4.3,2168,Dance / Zumba Studio,+91 9876566897,fit161@example.com,https://fitness161.example.com,5 AM - 11 PM,Premium
+112,Fitness Centre 162,"83, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,2034,Yoga Studio,+91 9876594543,fit162@example.com,https://fitness162.example.com,7 AM - 9 PM,Premium
+113,Fitness Centre 163,"17, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,1140,Dance / Zumba Studio,+91 9876515290,fit163@example.com,https://fitness163.example.com,24 Hours,Premium
+114,Fitness Centre 164,"54, Main Road, Bengaluru",Koramangala,Bengaluru,4.4,1019,Gym / Fitness Studio,+91 9876541046,fit164@example.com,https://fitness164.example.com,6 AM - 10 PM,Mid
+115,Fitness Centre 165,"25, Main Road, Bengaluru",Koramangala,Bengaluru,4.7,1211,Gym / Fitness Studio,+91 9876597712,fit165@example.com,https://fitness165.example.com,5 AM - 11 PM,Mid
+116,Fitness Centre 166,"77, Main Road, Bengaluru",Koramangala,Bengaluru,3.9,1413,Dance / Zumba Studio,+91 9876588630,fit166@example.com,https://fitness166.example.com,6 AM - 10 PM,Mid
+117,Fitness Centre 167,"58, Main Road, Bengaluru",HSR Layout,Bengaluru,4,1674,Gym / Fitness Studio,+91 9876517302,fit167@example.com,https://fitness167.example.com,7 AM - 9 PM,Budget
+118,Fitness Centre 168,"26, Main Road, Bengaluru",HSR Layout,Bengaluru,4,1699,Gym / Fitness Studio,+91 9876521872,fit168@example.com,https://fitness168.example.com,24 Hours,Budget
+119,Fitness Centre 169,"4, Main Road, Bengaluru",Koramangala,Bengaluru,4.1,2419,Gym / Fitness Studio,+91 9876542252,fit169@example.com,https://fitness169.example.com,6 AM - 10 PM,Budget
+120,Fitness Centre 170,"48, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,2480,CrossFit Box,+91 9876514495,fit170@example.com,https://fitness170.example.com,7 AM - 9 PM,Mid
+121,Fitness Centre 171,"78, Main Road, Bengaluru",HSR Layout,Bengaluru,4.3,526,CrossFit Box,+91 9876576063,fit171@example.com,https://fitness171.example.com,24 Hours,Premium
+122,Fitness Centre 172,"31, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,1001,Yoga Studio,+91 9876518627,fit172@example.com,https://fitness172.example.com,5 AM - 11 PM,Mid
+123,Fitness Centre 173,"2, Main Road, Bengaluru",Indiranagar,Bengaluru,4.3,1431,Gym / Fitness Studio,+91 9876571825,fit173@example.com,https://fitness173.example.com,5 AM - 11 PM,Budget
+124,Fitness Centre 174,"55, Main Road, Bengaluru",BTM Layout,Bengaluru,4.3,909,Yoga Studio,+91 9876595048,fit174@example.com,https://fitness174.example.com,6 AM - 10 PM,Budget
+125,Fitness Centre 175,"57, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,1547,Yoga Studio,+91 9876537567,fit175@example.com,https://fitness175.example.com,7 AM - 9 PM,Premium
+126,Fitness Centre 176,"75, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,2247,Gym / Fitness Studio,+91 9876561846,fit176@example.com,https://fitness176.example.com,5 AM - 11 PM,Budget
+127,Fitness Centre 177,"97, Main Road, Bengaluru",HSR Layout,Bengaluru,4.7,2368,Yoga Studio,+91 9876562288,fit177@example.com,https://fitness177.example.com,7 AM - 9 PM,Premium
+128,Fitness Centre 178,"52, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,1236,Gym / Fitness Studio,+91 9876599777,fit178@example.com,https://fitness178.example.com,5 AM - 11 PM,Premium
+129,Fitness Centre 179,"13, Main Road, Bengaluru",BTM Layout,Bengaluru,4.4,1412,Yoga Studio,+91 9876533231,fit179@example.com,https://fitness179.example.com,24 Hours,Premium
+130,Fitness Centre 180,"44, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,1621,Dance / Zumba Studio,+91 9876550597,fit180@example.com,https://fitness180.example.com,24 Hours,Budget
+131,Fitness Centre 181,"38, Main Road, Bengaluru",Jayanagar,Bengaluru,4,575,Dance / Zumba Studio,+91 9876535999,fit181@example.com,https://fitness181.example.com,5 AM - 11 PM,Premium
+132,Fitness Centre 182,"31, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,837,Gym / Fitness Studio,+91 9876596016,fit182@example.com,https://fitness182.example.com,6 AM - 10 PM,Premium
+133,Fitness Centre 183,"95, Main Road, Bengaluru",BTM Layout,Bengaluru,4.7,1742,Gym / Fitness Studio,+91 9876590659,fit183@example.com,https://fitness183.example.com,5 AM - 11 PM,Budget
+134,Fitness Centre 184,"58, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,1184,Dance / Zumba Studio,+91 9876568273,fit184@example.com,https://fitness184.example.com,7 AM - 9 PM,Mid
+135,Fitness Centre 185,"67, Main Road, Bengaluru",BTM Layout,Bengaluru,4.5,1433,Gym / Fitness Studio,+91 9876530436,fit185@example.com,https://fitness185.example.com,24 Hours,Budget
+136,Fitness Centre 186,"60, Main Road, Bengaluru",Jayanagar,Bengaluru,3.8,2436,Gym / Fitness Studio,+91 9876510415,fit186@example.com,https://fitness186.example.com,7 AM - 9 PM,Budget
+137,Fitness Centre 187,"15, Main Road, Bengaluru",Jayanagar,Bengaluru,4.6,1803,Dance / Zumba Studio,+91 9876596103,fit187@example.com,https://fitness187.example.com,7 AM - 9 PM,Budget
+138,Fitness Centre 188,"48, Main Road, Bengaluru",Jayanagar,Bengaluru,3.9,674,Yoga Studio,+91 9876561832,fit188@example.com,https://fitness188.example.com,6 AM - 10 PM,Budget
+139,Fitness Centre 189,"59, Main Road, Bengaluru",HSR Layout,Bengaluru,4.4,709,Yoga Studio,+91 9876564520,fit189@example.com,https://fitness189.example.com,5 AM - 11 PM,Mid
+140,Fitness Centre 190,"15, Main Road, Bengaluru",Indiranagar,Bengaluru,4.3,1635,Yoga Studio,+91 9876555208,fit190@example.com,https://fitness190.example.com,5 AM - 11 PM,Premium
+141,Fitness Centre 191,"2, Main Road, Bengaluru",BTM Layout,Bengaluru,4.2,2396,Gym / Fitness Studio,+91 9876580505,fit191@example.com,https://fitness191.example.com,24 Hours,Mid
+142,Fitness Centre 192,"92, Main Road, Bengaluru",Jayanagar,Bengaluru,4,546,CrossFit Box,+91 9876578047,fit192@example.com,https://fitness192.example.com,7 AM - 9 PM,Premium
+143,Fitness Centre 193,"51, Main Road, Bengaluru",Koramangala,Bengaluru,4,2050,CrossFit Box,+91 9876556420,fit193@example.com,https://fitness193.example.com,5 AM - 11 PM,Mid
+144,Fitness Centre 194,"43, Main Road, Bengaluru",Koramangala,Bengaluru,4,1868,CrossFit Box,+91 9876589818,fit194@example.com,https://fitness194.example.com,7 AM - 9 PM,Budget
+145,Fitness Centre 195,"39, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,921,CrossFit Box,+91 9876546458,fit195@example.com,https://fitness195.example.com,6 AM - 10 PM,Premium
+146,Fitness Centre 196,"35, Main Road, Bengaluru",Koramangala,Bengaluru,4.4,704,CrossFit Box,+91 9876582127,fit196@example.com,https://fitness196.example.com,7 AM - 9 PM,Mid
+147,Fitness Centre 197,"81, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,1730,Gym / Fitness Studio,+91 9876531302,fit197@example.com,https://fitness197.example.com,5 AM - 11 PM,Budget
+148,Fitness Centre 198,"97, Main Road, Bengaluru",HSR Layout,Bengaluru,4.4,1376,Yoga Studio,+91 9876566890,fit198@example.com,https://fitness198.example.com,5 AM - 11 PM,Premium
+149,Fitness Centre 199,"44, Main Road, Bengaluru",HSR Layout,Bengaluru,4.3,1831,Gym / Fitness Studio,+91 9876580092,fit199@example.com,https://fitness199.example.com,6 AM - 10 PM,Mid
+150,Fitness Centre 200,"74, Main Road, Bengaluru",BTM Layout,Bengaluru,4.2,737,Yoga Studio,+91 9876589260,fit200@example.com,https://fitness200.example.com,6 AM - 10 PM,Mid
+151,Fitness Centre 201,"32, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,764,Dance / Zumba Studio,+91 9876535733,fit201@example.com,https://fitness201.example.com,24 Hours,Premium
+152,Fitness Centre 202,"89, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,1502,Gym / Fitness Studio,+91 9876541410,fit202@example.com,https://fitness202.example.com,5 AM - 11 PM,Premium
+153,Fitness Centre 203,"16, Main Road, Bengaluru",Indiranagar,Bengaluru,4.5,1366,Dance / Zumba Studio,+91 9876537304,fit203@example.com,https://fitness203.example.com,6 AM - 10 PM,Budget
+154,Fitness Centre 204,"49, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,625,Gym / Fitness Studio,+91 9876565447,fit204@example.com,https://fitness204.example.com,6 AM - 10 PM,Budget
+155,Fitness Centre 205,"39, Main Road, Bengaluru",Whitefield,Bengaluru,4.8,576,Dance / Zumba Studio,+91 9876527789,fit205@example.com,https://fitness205.example.com,5 AM - 11 PM,Budget
+156,Fitness Centre 206,"68, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,2368,Yoga Studio,+91 9876551704,fit206@example.com,https://fitness206.example.com,5 AM - 11 PM,Budget
+157,Fitness Centre 207,"9, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,1825,Yoga Studio,+91 9876564974,fit207@example.com,https://fitness207.example.com,7 AM - 9 PM,Budget
+158,Fitness Centre 208,"10, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,569,Gym / Fitness Studio,+91 9876511502,fit208@example.com,https://fitness208.example.com,5 AM - 11 PM,Budget
+159,Fitness Centre 209,"95, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,2262,Gym / Fitness Studio,+91 9876567141,fit209@example.com,https://fitness209.example.com,5 AM - 11 PM,Budget
+160,Fitness Centre 210,"63, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,984,CrossFit Box,+91 9876582883,fit210@example.com,https://fitness210.example.com,24 Hours,Budget
+161,Fitness Centre 211,"50, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,2405,Yoga Studio,+91 9876578086,fit211@example.com,https://fitness211.example.com,5 AM - 11 PM,Premium
+162,Fitness Centre 212,"82, Main Road, Bengaluru",BTM Layout,Bengaluru,4.2,672,Yoga Studio,+91 9876555598,fit212@example.com,https://fitness212.example.com,7 AM - 9 PM,Premium
+163,Fitness Centre 213,"44, Main Road, Bengaluru",Indiranagar,Bengaluru,3.9,878,Dance / Zumba Studio,+91 9876574477,fit213@example.com,https://fitness213.example.com,5 AM - 11 PM,Mid
+164,Fitness Centre 214,"25, Main Road, Bengaluru",HSR Layout,Bengaluru,4,642,Yoga Studio,+91 9876571044,fit214@example.com,https://fitness214.example.com,5 AM - 11 PM,Premium
+165,Fitness Centre 215,"4, Main Road, Bengaluru",Indiranagar,Bengaluru,4.3,898,Gym / Fitness Studio,+91 9876557545,fit215@example.com,https://fitness215.example.com,7 AM - 9 PM,Mid
+166,Fitness Centre 216,"16, Main Road, Bengaluru",HSR Layout,Bengaluru,4.4,799,Dance / Zumba Studio,+91 9876567999,fit216@example.com,https://fitness216.example.com,5 AM - 11 PM,Budget
+167,Fitness Centre 217,"97, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,552,Yoga Studio,+91 9876582507,fit217@example.com,https://fitness217.example.com,6 AM - 10 PM,Budget
+168,Fitness Centre 218,"70, Main Road, Bengaluru",Whitefield,Bengaluru,3.8,1217,CrossFit Box,+91 9876539224,fit218@example.com,https://fitness218.example.com,5 AM - 11 PM,Budget
+169,Fitness Centre 219,"26, Main Road, Bengaluru",Koramangala,Bengaluru,4.1,1066,Dance / Zumba Studio,+91 9876587341,fit219@example.com,https://fitness219.example.com,6 AM - 10 PM,Budget
+170,Fitness Centre 220,"79, Main Road, Bengaluru",BTM Layout,Bengaluru,4.3,1879,Dance / Zumba Studio,+91 9876589182,fit220@example.com,https://fitness220.example.com,5 AM - 11 PM,Budget
+171,Fitness Centre 221,"67, Main Road, Bengaluru",Indiranagar,Bengaluru,4.5,1808,Gym / Fitness Studio,+91 9876572623,fit221@example.com,https://fitness221.example.com,5 AM - 11 PM,Mid
+172,Fitness Centre 222,"97, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,1654,Dance / Zumba Studio,+91 9876563078,fit222@example.com,https://fitness222.example.com,5 AM - 11 PM,Premium
+173,Fitness Centre 223,"10, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,2180,Yoga Studio,+91 9876566083,fit223@example.com,https://fitness223.example.com,7 AM - 9 PM,Budget
+174,Fitness Centre 224,"65, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1216,Dance / Zumba Studio,+91 9876576356,fit224@example.com,https://fitness224.example.com,7 AM - 9 PM,Mid
+175,Fitness Centre 225,"84, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,507,Dance / Zumba Studio,+91 9876595126,fit225@example.com,https://fitness225.example.com,7 AM - 9 PM,Mid
+176,Fitness Centre 226,"51, Main Road, Bengaluru",HSR Layout,Bengaluru,4.2,711,CrossFit Box,+91 9876564546,fit226@example.com,https://fitness226.example.com,7 AM - 9 PM,Mid
+177,Fitness Centre 227,"23, Main Road, Bengaluru",Jayanagar,Bengaluru,4.7,1163,CrossFit Box,+91 9876589617,fit227@example.com,https://fitness227.example.com,7 AM - 9 PM,Premium
+178,Fitness Centre 228,"27, Main Road, Bengaluru",Koramangala,Bengaluru,3.9,2112,CrossFit Box,+91 9876524511,fit228@example.com,https://fitness228.example.com,6 AM - 10 PM,Mid
+179,Fitness Centre 229,"45, Main Road, Bengaluru",Whitefield,Bengaluru,4.3,966,Gym / Fitness Studio,+91 9876561894,fit229@example.com,https://fitness229.example.com,24 Hours,Budget
+180,Fitness Centre 230,"3, Main Road, Bengaluru",BTM Layout,Bengaluru,4.2,1196,Gym / Fitness Studio,+91 9876521949,fit230@example.com,https://fitness230.example.com,5 AM - 11 PM,Mid
+181,Fitness Centre 231,"35, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,849,Dance / Zumba Studio,+91 9876536093,fit231@example.com,https://fitness231.example.com,24 Hours,Premium
+182,Fitness Centre 232,"33, Main Road, Bengaluru",Indiranagar,Bengaluru,4.4,1880,Dance / Zumba Studio,+91 9876582613,fit232@example.com,https://fitness232.example.com,5 AM - 11 PM,Budget
+183,Fitness Centre 233,"14, Main Road, Bengaluru",Koramangala,Bengaluru,4.3,883,Dance / Zumba Studio,+91 9876574948,fit233@example.com,https://fitness233.example.com,7 AM - 9 PM,Premium
+184,Fitness Centre 234,"12, Main Road, Bengaluru",Koramangala,Bengaluru,4.3,2207,Yoga Studio,+91 9876558608,fit234@example.com,https://fitness234.example.com,24 Hours,Budget
+185,Fitness Centre 235,"37, Main Road, Bengaluru",HSR Layout,Bengaluru,4.7,2280,Gym / Fitness Studio,+91 9876530688,fit235@example.com,https://fitness235.example.com,5 AM - 11 PM,Budget
+186,Fitness Centre 236,"1, Main Road, Bengaluru",Koramangala,Bengaluru,4.2,1999,Gym / Fitness Studio,+91 9876586847,fit236@example.com,https://fitness236.example.com,7 AM - 9 PM,Budget
+187,Fitness Centre 237,"8, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,2173,Dance / Zumba Studio,+91 9876528835,fit237@example.com,https://fitness237.example.com,6 AM - 10 PM,Budget
+188,Fitness Centre 238,"54, Main Road, Bengaluru",HSR Layout,Bengaluru,4.1,674,Gym / Fitness Studio,+91 9876531367,fit238@example.com,https://fitness238.example.com,6 AM - 10 PM,Budget
+189,Fitness Centre 239,"92, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,1104,Gym / Fitness Studio,+91 9876523107,fit239@example.com,https://fitness239.example.com,24 Hours,Budget
+190,Fitness Centre 240,"40, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,2079,CrossFit Box,+91 9876583641,fit240@example.com,https://fitness240.example.com,7 AM - 9 PM,Mid
+191,Fitness Centre 241,"72, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,1909,Dance / Zumba Studio,+91 9876585737,fit241@example.com,https://fitness241.example.com,6 AM - 10 PM,Premium
+192,Fitness Centre 242,"92, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,2038,Yoga Studio,+91 9876558952,fit242@example.com,https://fitness242.example.com,24 Hours,Premium
+193,Fitness Centre 243,"34, Main Road, Bengaluru",Koramangala,Bengaluru,4.2,1413,Gym / Fitness Studio,+91 9876593741,fit243@example.com,https://fitness243.example.com,5 AM - 11 PM,Mid
+194,Fitness Centre 244,"90, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,1209,CrossFit Box,+91 9876520160,fit244@example.com,https://fitness244.example.com,7 AM - 9 PM,Premium
+195,Fitness Centre 245,"58, Main Road, Bengaluru",Koramangala,Bengaluru,4.1,741,Dance / Zumba Studio,+91 9876562112,fit245@example.com,https://fitness245.example.com,6 AM - 10 PM,Budget
+196,Fitness Centre 246,"12, Main Road, Bengaluru",BTM Layout,Bengaluru,4,1455,Yoga Studio,+91 9876599740,fit246@example.com,https://fitness246.example.com,24 Hours,Budget
+197,Fitness Centre 247,"99, Main Road, Bengaluru",Whitefield,Bengaluru,4.8,1117,Gym / Fitness Studio,+91 9876539360,fit247@example.com,https://fitness247.example.com,24 Hours,Mid
+198,Fitness Centre 248,"26, Main Road, Bengaluru",Indiranagar,Bengaluru,3.9,809,Dance / Zumba Studio,+91 9876592397,fit248@example.com,https://fitness248.example.com,5 AM - 11 PM,Mid
+199,Fitness Centre 249,"11, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,2492,Dance / Zumba Studio,+91 9876521349,fit249@example.com,https://fitness249.example.com,5 AM - 11 PM,Mid
+200,Fitness Centre 250,"11, Main Road, Bengaluru",Jayanagar,Bengaluru,4.6,700,CrossFit Box,+91 9876530064,fit250@example.com,https://fitness250.example.com,7 AM - 9 PM,Premium
+201,Fitness Centre 251,"10, Main Road, Bengaluru",Jayanagar,Bengaluru,3.8,845,Dance / Zumba Studio,+91 9876528569,fit251@example.com,https://fitness251.example.com,24 Hours,Premium
+202,Fitness Centre 252,"60, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1819,Dance / Zumba Studio,+91 9876557843,fit252@example.com,https://fitness252.example.com,24 Hours,Budget
+203,Fitness Centre 253,"64, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,1084,Yoga Studio,+91 9876589600,fit253@example.com,https://fitness253.example.com,24 Hours,Mid
+204,Fitness Centre 254,"25, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,1433,CrossFit Box,+91 9876593071,fit254@example.com,https://fitness254.example.com,5 AM - 11 PM,Mid
+205,Fitness Centre 255,"30, Main Road, Bengaluru",BTM Layout,Bengaluru,3.9,1154,CrossFit Box,+91 9876584682,fit255@example.com,https://fitness255.example.com,5 AM - 11 PM,Mid
+206,Fitness Centre 256,"13, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,1303,Gym / Fitness Studio,+91 9876566187,fit256@example.com,https://fitness256.example.com,5 AM - 11 PM,Budget
+207,Fitness Centre 257,"36, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,1271,Yoga Studio,+91 9876538288,fit257@example.com,https://fitness257.example.com,7 AM - 9 PM,Mid
+208,Fitness Centre 258,"58, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,749,Gym / Fitness Studio,+91 9876599229,fit258@example.com,https://fitness258.example.com,6 AM - 10 PM,Mid
+209,Fitness Centre 259,"79, Main Road, Bengaluru",Whitefield,Bengaluru,4.3,2362,Gym / Fitness Studio,+91 9876529020,fit259@example.com,https://fitness259.example.com,24 Hours,Mid
+210,Fitness Centre 260,"92, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,597,Dance / Zumba Studio,+91 9876521809,fit260@example.com,https://fitness260.example.com,6 AM - 10 PM,Mid
+211,Fitness Centre 261,"96, Main Road, Bengaluru",Indiranagar,Bengaluru,3.9,1251,Gym / Fitness Studio,+91 9876560698,fit261@example.com,https://fitness261.example.com,7 AM - 9 PM,Mid
+212,Fitness Centre 262,"20, Main Road, Bengaluru",Whitefield,Bengaluru,4.4,913,CrossFit Box,+91 9876517789,fit262@example.com,https://fitness262.example.com,6 AM - 10 PM,Premium
+213,Fitness Centre 263,"38, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,1511,Gym / Fitness Studio,+91 9876529001,fit263@example.com,https://fitness263.example.com,5 AM - 11 PM,Mid
+214,Fitness Centre 264,"63, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,1167,Gym / Fitness Studio,+91 9876513468,fit264@example.com,https://fitness264.example.com,24 Hours,Budget
+215,Fitness Centre 265,"3, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,577,Dance / Zumba Studio,+91 9876585075,fit265@example.com,https://fitness265.example.com,24 Hours,Budget
+216,Fitness Centre 266,"44, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,1778,Dance / Zumba Studio,+91 9876595402,fit266@example.com,https://fitness266.example.com,5 AM - 11 PM,Premium
+217,Fitness Centre 267,"19, Main Road, Bengaluru",HSR Layout,Bengaluru,4.4,2321,Gym / Fitness Studio,+91 9876522638,fit267@example.com,https://fitness267.example.com,6 AM - 10 PM,Mid
+218,Fitness Centre 268,"1, Main Road, Bengaluru",BTM Layout,Bengaluru,3.9,1057,Yoga Studio,+91 9876518029,fit268@example.com,https://fitness268.example.com,24 Hours,Mid
+219,Fitness Centre 269,"31, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,1398,CrossFit Box,+91 9876548841,fit269@example.com,https://fitness269.example.com,5 AM - 11 PM,Premium
+220,Fitness Centre 270,"61, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,979,CrossFit Box,+91 9876588111,fit270@example.com,https://fitness270.example.com,7 AM - 9 PM,Budget
+221,Fitness Centre 271,"4, Main Road, Bengaluru",Whitefield,Bengaluru,4.3,656,Yoga Studio,+91 9876570399,fit271@example.com,https://fitness271.example.com,5 AM - 11 PM,Premium
+222,Fitness Centre 272,"21, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,745,CrossFit Box,+91 9876542650,fit272@example.com,https://fitness272.example.com,7 AM - 9 PM,Budget
+223,Fitness Centre 273,"40, Main Road, Bengaluru",Indiranagar,Bengaluru,4.8,1050,CrossFit Box,+91 9876524470,fit273@example.com,https://fitness273.example.com,5 AM - 11 PM,Premium
+224,Fitness Centre 274,"63, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,1132,Dance / Zumba Studio,+91 9876539260,fit274@example.com,https://fitness274.example.com,7 AM - 9 PM,Mid
+225,Fitness Centre 275,"95, Main Road, Bengaluru",BTM Layout,Bengaluru,4.1,2014,Gym / Fitness Studio,+91 9876544016,fit275@example.com,https://fitness275.example.com,5 AM - 11 PM,Mid
+226,Fitness Centre 276,"5, Main Road, Bengaluru",HSR Layout,Bengaluru,4,2436,Dance / Zumba Studio,+91 9876598077,fit276@example.com,https://fitness276.example.com,5 AM - 11 PM,Premium
+227,Fitness Centre 277,"3, Main Road, Bengaluru",Koramangala,Bengaluru,4.7,1181,CrossFit Box,+91 9876524679,fit277@example.com,https://fitness277.example.com,6 AM - 10 PM,Budget
+228,Fitness Centre 278,"55, Main Road, Bengaluru",BTM Layout,Bengaluru,4.5,1250,Yoga Studio,+91 9876557234,fit278@example.com,https://fitness278.example.com,24 Hours,Budget
+229,Fitness Centre 279,"46, Main Road, Bengaluru",BTM Layout,Bengaluru,4,851,Dance / Zumba Studio,+91 9876524686,fit279@example.com,https://fitness279.example.com,6 AM - 10 PM,Mid
+230,Fitness Centre 280,"57, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,581,Gym / Fitness Studio,+91 9876552747,fit280@example.com,https://fitness280.example.com,7 AM - 9 PM,Budget
+231,Fitness Centre 281,"14, Main Road, Bengaluru",Whitefield,Bengaluru,4.2,1488,Dance / Zumba Studio,+91 9876548469,fit281@example.com,https://fitness281.example.com,24 Hours,Premium
+232,Fitness Centre 282,"60, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,1756,Gym / Fitness Studio,+91 9876593189,fit282@example.com,https://fitness282.example.com,24 Hours,Mid
+233,Fitness Centre 283,"74, Main Road, Bengaluru",BTM Layout,Bengaluru,4.1,609,Gym / Fitness Studio,+91 9876592089,fit283@example.com,https://fitness283.example.com,6 AM - 10 PM,Premium
+234,Fitness Centre 284,"62, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,1594,Gym / Fitness Studio,+91 9876524838,fit284@example.com,https://fitness284.example.com,5 AM - 11 PM,Budget
+235,Fitness Centre 285,"57, Main Road, Bengaluru",Jayanagar,Bengaluru,3.8,1082,Yoga Studio,+91 9876546869,fit285@example.com,https://fitness285.example.com,24 Hours,Premium
+236,Fitness Centre 286,"43, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,1277,Yoga Studio,+91 9876531033,fit286@example.com,https://fitness286.example.com,5 AM - 11 PM,Mid
+237,Fitness Centre 287,"75, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,1761,Yoga Studio,+91 9876528806,fit287@example.com,https://fitness287.example.com,5 AM - 11 PM,Budget
+238,Fitness Centre 288,"8, Main Road, Bengaluru",Koramangala,Bengaluru,4.2,1823,Dance / Zumba Studio,+91 9876545427,fit288@example.com,https://fitness288.example.com,6 AM - 10 PM,Premium
+239,Fitness Centre 289,"5, Main Road, Bengaluru",HSR Layout,Bengaluru,4.6,1358,CrossFit Box,+91 9876569351,fit289@example.com,https://fitness289.example.com,7 AM - 9 PM,Budget
+240,Fitness Centre 290,"58, Main Road, Bengaluru",Koramangala,Bengaluru,4.4,2057,Yoga Studio,+91 9876588699,fit290@example.com,https://fitness290.example.com,5 AM - 11 PM,Mid
+241,Fitness Centre 291,"8, Main Road, Bengaluru",Whitefield,Bengaluru,4.2,1638,Yoga Studio,+91 9876553210,fit291@example.com,https://fitness291.example.com,6 AM - 10 PM,Premium
+242,Fitness Centre 292,"96, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1927,Dance / Zumba Studio,+91 9876538098,fit292@example.com,https://fitness292.example.com,7 AM - 9 PM,Premium
+243,Fitness Centre 293,"90, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,1280,Yoga Studio,+91 9876571336,fit293@example.com,https://fitness293.example.com,6 AM - 10 PM,Premium
+244,Fitness Centre 294,"85, Main Road, Bengaluru",Jayanagar,Bengaluru,3.9,1873,CrossFit Box,+91 9876513525,fit294@example.com,https://fitness294.example.com,24 Hours,Mid
+245,Fitness Centre 295,"12, Main Road, Bengaluru",Whitefield,Bengaluru,4.3,625,Dance / Zumba Studio,+91 9876558706,fit295@example.com,https://fitness295.example.com,5 AM - 11 PM,Mid
+246,Fitness Centre 296,"29, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,1345,Gym / Fitness Studio,+91 9876570864,fit296@example.com,https://fitness296.example.com,6 AM - 10 PM,Mid
+247,Fitness Centre 297,"43, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,1353,Yoga Studio,+91 9876580831,fit297@example.com,https://fitness297.example.com,6 AM - 10 PM,Premium
+248,Fitness Centre 298,"65, Main Road, Bengaluru",HSR Layout,Bengaluru,4.6,589,CrossFit Box,+91 9876591740,fit298@example.com,https://fitness298.example.com,6 AM - 10 PM,Mid
+249,Fitness Centre 299,"48, Main Road, Bengaluru",Koramangala,Bengaluru,4,2410,Gym / Fitness Studio,+91 9876549691,fit299@example.com,https://fitness299.example.com,24 Hours,Budget
+250,Fitness Centre 300,"83, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,982,Dance / Zumba Studio,+91 9876554336,fit300@example.com,https://fitness300.example.com,6 AM - 10 PM,Premium
+251,Fitness Centre 301,"74, Main Road, Bengaluru",HSR Layout,Bengaluru,4.7,1258,Yoga Studio,+91 9876513655,fit301@example.com,https://fitness301.example.com,24 Hours,Premium
+252,Fitness Centre 302,"19, Main Road, Bengaluru",HSR Layout,Bengaluru,4.8,2456,Dance / Zumba Studio,+91 9876561778,fit302@example.com,https://fitness302.example.com,24 Hours,Premium
+253,Fitness Centre 303,"57, Main Road, Bengaluru",BTM Layout,Bengaluru,4.3,1415,CrossFit Box,+91 9876582736,fit303@example.com,https://fitness303.example.com,6 AM - 10 PM,Premium
+254,Fitness Centre 304,"44, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,2486,CrossFit Box,+91 9876524221,fit304@example.com,https://fitness304.example.com,5 AM - 11 PM,Premium
+255,Fitness Centre 305,"84, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,1396,Yoga Studio,+91 9876524843,fit305@example.com,https://fitness305.example.com,5 AM - 11 PM,Premium
+256,Fitness Centre 306,"20, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,1125,Gym / Fitness Studio,+91 9876581656,fit306@example.com,https://fitness306.example.com,24 Hours,Mid
+257,Fitness Centre 307,"9, Main Road, Bengaluru",Indiranagar,Bengaluru,4.4,1530,Yoga Studio,+91 9876550786,fit307@example.com,https://fitness307.example.com,6 AM - 10 PM,Budget
+258,Fitness Centre 308,"60, Main Road, Bengaluru",Koramangala,Bengaluru,4.2,978,Yoga Studio,+91 9876528609,fit308@example.com,https://fitness308.example.com,7 AM - 9 PM,Budget
+259,Fitness Centre 309,"23, Main Road, Bengaluru",Jayanagar,Bengaluru,4.2,1529,Dance / Zumba Studio,+91 9876567145,fit309@example.com,https://fitness309.example.com,7 AM - 9 PM,Budget
+260,Fitness Centre 310,"88, Main Road, Bengaluru",Jayanagar,Bengaluru,3.9,2179,CrossFit Box,+91 9876558882,fit310@example.com,https://fitness310.example.com,7 AM - 9 PM,Mid
+261,Fitness Centre 311,"49, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,1792,Yoga Studio,+91 9876569760,fit311@example.com,https://fitness311.example.com,7 AM - 9 PM,Mid
+262,Fitness Centre 312,"65, Main Road, Bengaluru",BTM Layout,Bengaluru,3.9,1287,CrossFit Box,+91 9876570386,fit312@example.com,https://fitness312.example.com,7 AM - 9 PM,Budget
+263,Fitness Centre 313,"8, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,624,CrossFit Box,+91 9876561603,fit313@example.com,https://fitness313.example.com,6 AM - 10 PM,Mid
+264,Fitness Centre 314,"17, Main Road, Bengaluru",Whitefield,Bengaluru,4,1792,CrossFit Box,+91 9876521600,fit314@example.com,https://fitness314.example.com,5 AM - 11 PM,Premium
+265,Fitness Centre 315,"44, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,1478,Yoga Studio,+91 9876592516,fit315@example.com,https://fitness315.example.com,5 AM - 11 PM,Premium
+266,Fitness Centre 316,"51, Main Road, Bengaluru",HSR Layout,Bengaluru,4,1385,Dance / Zumba Studio,+91 9876592979,fit316@example.com,https://fitness316.example.com,5 AM - 11 PM,Mid
+267,Fitness Centre 317,"26, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1040,CrossFit Box,+91 9876528496,fit317@example.com,https://fitness317.example.com,24 Hours,Budget
+268,Fitness Centre 318,"1, Main Road, Bengaluru",Indiranagar,Bengaluru,4.8,2166,Dance / Zumba Studio,+91 9876546387,fit318@example.com,https://fitness318.example.com,24 Hours,Premium
+269,Fitness Centre 319,"98, Main Road, Bengaluru",Koramangala,Bengaluru,4.3,2155,CrossFit Box,+91 9876599147,fit319@example.com,https://fitness319.example.com,5 AM - 11 PM,Premium
+270,Fitness Centre 320,"12, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,983,Yoga Studio,+91 9876571932,fit320@example.com,https://fitness320.example.com,7 AM - 9 PM,Premium
+271,Fitness Centre 321,"16, Main Road, Bengaluru",BTM Layout,Bengaluru,4.2,1634,Yoga Studio,+91 9876588691,fit321@example.com,https://fitness321.example.com,6 AM - 10 PM,Premium
+272,Fitness Centre 322,"79, Main Road, Bengaluru",HSR Layout,Bengaluru,4.3,1716,Dance / Zumba Studio,+91 9876562593,fit322@example.com,https://fitness322.example.com,5 AM - 11 PM,Mid
+273,Fitness Centre 323,"90, Main Road, Bengaluru",Jayanagar,Bengaluru,4.7,2029,Gym / Fitness Studio,+91 9876581285,fit323@example.com,https://fitness323.example.com,6 AM - 10 PM,Mid
+274,Fitness Centre 324,"59, Main Road, Bengaluru",Whitefield,Bengaluru,4,1519,Gym / Fitness Studio,+91 9876547016,fit324@example.com,https://fitness324.example.com,7 AM - 9 PM,Mid
+275,Fitness Centre 325,"26, Main Road, Bengaluru",HSR Layout,Bengaluru,4.8,1157,CrossFit Box,+91 9876517585,fit325@example.com,https://fitness325.example.com,7 AM - 9 PM,Mid
+276,Fitness Centre 326,"80, Main Road, Bengaluru",BTM Layout,Bengaluru,4.2,1860,CrossFit Box,+91 9876587838,fit326@example.com,https://fitness326.example.com,24 Hours,Budget
+277,Fitness Centre 327,"3, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,1711,Yoga Studio,+91 9876596241,fit327@example.com,https://fitness327.example.com,5 AM - 11 PM,Mid
+278,Fitness Centre 328,"4, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,1197,CrossFit Box,+91 9876564750,fit328@example.com,https://fitness328.example.com,24 Hours,Premium
+279,Fitness Centre 329,"20, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,1472,Yoga Studio,+91 9876548319,fit329@example.com,https://fitness329.example.com,6 AM - 10 PM,Mid
+280,Fitness Centre 330,"39, Main Road, Bengaluru",Indiranagar,Bengaluru,4.5,1748,Dance / Zumba Studio,+91 9876560921,fit330@example.com,https://fitness330.example.com,5 AM - 11 PM,Premium
+281,Fitness Centre 331,"15, Main Road, Bengaluru",BTM Layout,Bengaluru,4.3,1436,CrossFit Box,+91 9876596877,fit331@example.com,https://fitness331.example.com,24 Hours,Mid
+282,Fitness Centre 332,"2, Main Road, Bengaluru",BTM Layout,Bengaluru,4.3,1543,CrossFit Box,+91 9876539221,fit332@example.com,https://fitness332.example.com,6 AM - 10 PM,Budget
+283,Fitness Centre 333,"73, Main Road, Bengaluru",HSR Layout,Bengaluru,4,700,Dance / Zumba Studio,+91 9876541515,fit333@example.com,https://fitness333.example.com,6 AM - 10 PM,Mid
+284,Fitness Centre 334,"71, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,1081,CrossFit Box,+91 9876514836,fit334@example.com,https://fitness334.example.com,5 AM - 11 PM,Budget
+285,Fitness Centre 335,"56, Main Road, Bengaluru",BTM Layout,Bengaluru,3.9,2497,Dance / Zumba Studio,+91 9876563063,fit335@example.com,https://fitness335.example.com,7 AM - 9 PM,Budget
+286,Fitness Centre 336,"2, Main Road, Bengaluru",Indiranagar,Bengaluru,4.3,1376,Gym / Fitness Studio,+91 9876533377,fit336@example.com,https://fitness336.example.com,6 AM - 10 PM,Budget
+287,Fitness Centre 337,"79, Main Road, Bengaluru",Whitefield,Bengaluru,4.4,1780,CrossFit Box,+91 9876558179,fit337@example.com,https://fitness337.example.com,5 AM - 11 PM,Budget
+288,Fitness Centre 338,"10, Main Road, Bengaluru",Indiranagar,Bengaluru,3.8,1987,CrossFit Box,+91 9876580651,fit338@example.com,https://fitness338.example.com,24 Hours,Mid
+289,Fitness Centre 339,"58, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,1092,Yoga Studio,+91 9876580899,fit339@example.com,https://fitness339.example.com,24 Hours,Premium
+290,Fitness Centre 340,"24, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,1229,Gym / Fitness Studio,+91 9876543629,fit340@example.com,https://fitness340.example.com,7 AM - 9 PM,Budget
+291,Fitness Centre 341,"18, Main Road, Bengaluru",Koramangala,Bengaluru,4,621,CrossFit Box,+91 9876590060,fit341@example.com,https://fitness341.example.com,24 Hours,Mid
+292,Fitness Centre 342,"66, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,2063,Dance / Zumba Studio,+91 9876542143,fit342@example.com,https://fitness342.example.com,6 AM - 10 PM,Premium
+293,Fitness Centre 343,"8, Main Road, Bengaluru",BTM Layout,Bengaluru,4,593,Yoga Studio,+91 9876545842,fit343@example.com,https://fitness343.example.com,5 AM - 11 PM,Premium
+294,Fitness Centre 344,"10, Main Road, Bengaluru",Indiranagar,Bengaluru,4.5,874,CrossFit Box,+91 9876555560,fit344@example.com,https://fitness344.example.com,5 AM - 11 PM,Premium
+295,Fitness Centre 345,"32, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,1503,Dance / Zumba Studio,+91 9876530713,fit345@example.com,https://fitness345.example.com,6 AM - 10 PM,Budget
+296,Fitness Centre 346,"44, Main Road, Bengaluru",Koramangala,Bengaluru,3.9,635,Dance / Zumba Studio,+91 9876593354,fit346@example.com,https://fitness346.example.com,7 AM - 9 PM,Premium
+297,Fitness Centre 347,"5, Main Road, Bengaluru",Koramangala,Bengaluru,3.9,1991,Yoga Studio,+91 9876535662,fit347@example.com,https://fitness347.example.com,7 AM - 9 PM,Budget
+298,Fitness Centre 348,"22, Main Road, Bengaluru",BTM Layout,Bengaluru,4,1711,Dance / Zumba Studio,+91 9876513561,fit348@example.com,https://fitness348.example.com,5 AM - 11 PM,Budget
+299,Fitness Centre 349,"39, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,1325,CrossFit Box,+91 9876598745,fit349@example.com,https://fitness349.example.com,5 AM - 11 PM,Mid
+300,Fitness Centre 350,"50, Main Road, Bengaluru",Jayanagar,Bengaluru,4.6,2454,CrossFit Box,+91 9876570781,fit350@example.com,https://fitness350.example.com,7 AM - 9 PM,Premium
+301,Fitness Centre 351,"84, Main Road, Bengaluru",Koramangala,Bengaluru,3.9,2151,Dance / Zumba Studio,+91 9876566974,fit351@example.com,https://fitness351.example.com,6 AM - 10 PM,Premium
+302,Fitness Centre 352,"27, Main Road, Bengaluru",Indiranagar,Bengaluru,4.8,1342,Dance / Zumba Studio,+91 9876515000,fit352@example.com,https://fitness352.example.com,24 Hours,Budget
+303,Fitness Centre 353,"56, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,2414,CrossFit Box,+91 9876520594,fit353@example.com,https://fitness353.example.com,7 AM - 9 PM,Budget
+304,Fitness Centre 354,"60, Main Road, Bengaluru",Koramangala,Bengaluru,4.1,1024,Yoga Studio,+91 9876565823,fit354@example.com,https://fitness354.example.com,24 Hours,Budget
+305,Fitness Centre 355,"99, Main Road, Bengaluru",Koramangala,Bengaluru,4.8,2130,Gym / Fitness Studio,+91 9876546346,fit355@example.com,https://fitness355.example.com,6 AM - 10 PM,Mid
+306,Fitness Centre 356,"3, Main Road, Bengaluru",Whitefield,Bengaluru,3.9,1680,Gym / Fitness Studio,+91 9876593755,fit356@example.com,https://fitness356.example.com,7 AM - 9 PM,Mid
+307,Fitness Centre 357,"56, Main Road, Bengaluru",HSR Layout,Bengaluru,4.4,510,Yoga Studio,+91 9876575264,fit357@example.com,https://fitness357.example.com,24 Hours,Budget
+308,Fitness Centre 358,"32, Main Road, Bengaluru",BTM Layout,Bengaluru,4.3,2018,Dance / Zumba Studio,+91 9876579263,fit358@example.com,https://fitness358.example.com,7 AM - 9 PM,Budget
+309,Fitness Centre 359,"78, Main Road, Bengaluru",Koramangala,Bengaluru,4.1,2315,Gym / Fitness Studio,+91 9876593298,fit359@example.com,https://fitness359.example.com,24 Hours,Mid
+310,Fitness Centre 360,"15, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,572,Gym / Fitness Studio,+91 9876588205,fit360@example.com,https://fitness360.example.com,6 AM - 10 PM,Budget
+311,Fitness Centre 361,"28, Main Road, Bengaluru",Whitefield,Bengaluru,4.3,1317,CrossFit Box,+91 9876534033,fit361@example.com,https://fitness361.example.com,24 Hours,Premium
+312,Fitness Centre 362,"97, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1943,Yoga Studio,+91 9876563419,fit362@example.com,https://fitness362.example.com,7 AM - 9 PM,Mid
+313,Fitness Centre 363,"17, Main Road, Bengaluru",HSR Layout,Bengaluru,4.3,1530,Dance / Zumba Studio,+91 9876550978,fit363@example.com,https://fitness363.example.com,7 AM - 9 PM,Mid
+314,Fitness Centre 364,"92, Main Road, Bengaluru",Jayanagar,Bengaluru,4.6,1984,CrossFit Box,+91 9876559870,fit364@example.com,https://fitness364.example.com,7 AM - 9 PM,Budget
+315,Fitness Centre 365,"55, Main Road, Bengaluru",Whitefield,Bengaluru,4.2,1539,Dance / Zumba Studio,+91 9876556633,fit365@example.com,https://fitness365.example.com,7 AM - 9 PM,Mid
+316,Fitness Centre 366,"74, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,2237,Yoga Studio,+91 9876533491,fit366@example.com,https://fitness366.example.com,6 AM - 10 PM,Premium
+317,Fitness Centre 367,"25, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,1373,Yoga Studio,+91 9876594220,fit367@example.com,https://fitness367.example.com,24 Hours,Mid
+318,Fitness Centre 368,"21, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,1593,CrossFit Box,+91 9876545079,fit368@example.com,https://fitness368.example.com,7 AM - 9 PM,Mid
+319,Fitness Centre 369,"19, Main Road, Bengaluru",Jayanagar,Bengaluru,4.2,1449,Gym / Fitness Studio,+91 9876580059,fit369@example.com,https://fitness369.example.com,6 AM - 10 PM,Budget
+320,Fitness Centre 370,"11, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,1700,Dance / Zumba Studio,+91 9876566119,fit370@example.com,https://fitness370.example.com,24 Hours,Mid
+321,Fitness Centre 371,"40, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,1403,Gym / Fitness Studio,+91 9876511138,fit371@example.com,https://fitness371.example.com,24 Hours,Premium
+322,Fitness Centre 372,"58, Main Road, Bengaluru",BTM Layout,Bengaluru,4,1579,Yoga Studio,+91 9876557089,fit372@example.com,https://fitness372.example.com,5 AM - 11 PM,Premium
+323,Fitness Centre 373,"22, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,877,Yoga Studio,+91 9876513587,fit373@example.com,https://fitness373.example.com,7 AM - 9 PM,Mid
+324,Fitness Centre 374,"1, Main Road, Bengaluru",Whitefield,Bengaluru,3.9,836,CrossFit Box,+91 9876598367,fit374@example.com,https://fitness374.example.com,6 AM - 10 PM,Premium
+325,Fitness Centre 375,"27, Main Road, Bengaluru",Jayanagar,Bengaluru,4.2,648,Yoga Studio,+91 9876556602,fit375@example.com,https://fitness375.example.com,6 AM - 10 PM,Premium
+326,Fitness Centre 376,"9, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1208,Yoga Studio,+91 9876588172,fit376@example.com,https://fitness376.example.com,6 AM - 10 PM,Mid
+327,Fitness Centre 377,"78, Main Road, Bengaluru",HSR Layout,Bengaluru,4.2,1206,Yoga Studio,+91 9876528277,fit377@example.com,https://fitness377.example.com,7 AM - 9 PM,Premium
+328,Fitness Centre 378,"34, Main Road, Bengaluru",Indiranagar,Bengaluru,4,1712,Yoga Studio,+91 9876597070,fit378@example.com,https://fitness378.example.com,5 AM - 11 PM,Mid
+329,Fitness Centre 379,"23, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,928,Dance / Zumba Studio,+91 9876596886,fit379@example.com,https://fitness379.example.com,24 Hours,Premium
+330,Fitness Centre 380,"42, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,2141,Dance / Zumba Studio,+91 9876518772,fit380@example.com,https://fitness380.example.com,24 Hours,Premium
+331,Fitness Centre 381,"62, Main Road, Bengaluru",Koramangala,Bengaluru,4.7,1373,Dance / Zumba Studio,+91 9876528107,fit381@example.com,https://fitness381.example.com,24 Hours,Mid
+332,Fitness Centre 382,"89, Main Road, Bengaluru",Jayanagar,Bengaluru,3.9,560,Gym / Fitness Studio,+91 9876510635,fit382@example.com,https://fitness382.example.com,7 AM - 9 PM,Premium
+333,Fitness Centre 383,"24, Main Road, Bengaluru",Koramangala,Bengaluru,3.9,1530,Gym / Fitness Studio,+91 9876579493,fit383@example.com,https://fitness383.example.com,24 Hours,Budget
+334,Fitness Centre 384,"48, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,572,Yoga Studio,+91 9876586695,fit384@example.com,https://fitness384.example.com,24 Hours,Premium
+335,Fitness Centre 385,"38, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,1312,CrossFit Box,+91 9876580493,fit385@example.com,https://fitness385.example.com,7 AM - 9 PM,Budget
+336,Fitness Centre 386,"6, Main Road, Bengaluru",Koramangala,Bengaluru,4.3,781,Gym / Fitness Studio,+91 9876576344,fit386@example.com,https://fitness386.example.com,5 AM - 11 PM,Premium
+337,Fitness Centre 387,"9, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,583,CrossFit Box,+91 9876534205,fit387@example.com,https://fitness387.example.com,5 AM - 11 PM,Mid
+338,Fitness Centre 388,"59, Main Road, Bengaluru",BTM Layout,Bengaluru,4,1906,Yoga Studio,+91 9876561459,fit388@example.com,https://fitness388.example.com,5 AM - 11 PM,Mid
+339,Fitness Centre 389,"58, Main Road, Bengaluru",Koramangala,Bengaluru,4.1,2042,Dance / Zumba Studio,+91 9876510429,fit389@example.com,https://fitness389.example.com,6 AM - 10 PM,Mid
+340,Fitness Centre 390,"45, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,2268,Dance / Zumba Studio,+91 9876538520,fit390@example.com,https://fitness390.example.com,24 Hours,Mid
+341,Fitness Centre 391,"84, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,889,CrossFit Box,+91 9876599560,fit391@example.com,https://fitness391.example.com,5 AM - 11 PM,Budget
+342,Fitness Centre 392,"50, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,803,Dance / Zumba Studio,+91 9876539844,fit392@example.com,https://fitness392.example.com,7 AM - 9 PM,Budget
+343,Fitness Centre 393,"65, Main Road, Bengaluru",HSR Layout,Bengaluru,4.1,835,CrossFit Box,+91 9876529613,fit393@example.com,https://fitness393.example.com,5 AM - 11 PM,Mid
+344,Fitness Centre 394,"97, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,1534,Dance / Zumba Studio,+91 9876556464,fit394@example.com,https://fitness394.example.com,24 Hours,Premium
+345,Fitness Centre 395,"99, Main Road, Bengaluru",Jayanagar,Bengaluru,4.6,835,Yoga Studio,+91 9876525820,fit395@example.com,https://fitness395.example.com,24 Hours,Mid
+346,Fitness Centre 396,"81, Main Road, Bengaluru",Indiranagar,Bengaluru,4.8,1015,Yoga Studio,+91 9876537689,fit396@example.com,https://fitness396.example.com,7 AM - 9 PM,Premium
+347,Fitness Centre 397,"47, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,1351,CrossFit Box,+91 9876532345,fit397@example.com,https://fitness397.example.com,6 AM - 10 PM,Budget
+348,Fitness Centre 398,"93, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,1691,Gym / Fitness Studio,+91 9876553447,fit398@example.com,https://fitness398.example.com,7 AM - 9 PM,Budget
+349,Fitness Centre 399,"16, Main Road, Bengaluru",Indiranagar,Bengaluru,4,936,Yoga Studio,+91 9876574652,fit399@example.com,https://fitness399.example.com,5 AM - 11 PM,Budget
+350,Fitness Centre 400,"57, Main Road, Bengaluru",BTM Layout,Bengaluru,4.7,1098,Dance / Zumba Studio,+91 9876523168,fit400@example.com,https://fitness400.example.com,6 AM - 10 PM,Budget
+351,Fitness Centre 401,"45, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,1583,Gym / Fitness Studio,+91 9876574415,fit401@example.com,https://fitness401.example.com,5 AM - 11 PM,Premium
+352,Fitness Centre 402,"45, Main Road, Bengaluru",Koramangala,Bengaluru,4.6,1778,Gym / Fitness Studio,+91 9876534475,fit402@example.com,https://fitness402.example.com,7 AM - 9 PM,Premium
+353,Fitness Centre 403,"8, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,2090,Gym / Fitness Studio,+91 9876567495,fit403@example.com,https://fitness403.example.com,5 AM - 11 PM,Mid
+354,Fitness Centre 404,"49, Main Road, Bengaluru",Koramangala,Bengaluru,4.3,1507,Yoga Studio,+91 9876541433,fit404@example.com,https://fitness404.example.com,6 AM - 10 PM,Budget
+355,Fitness Centre 405,"96, Main Road, Bengaluru",Indiranagar,Bengaluru,3.9,2208,Yoga Studio,+91 9876540761,fit405@example.com,https://fitness405.example.com,24 Hours,Budget
+356,Fitness Centre 406,"76, Main Road, Bengaluru",HSR Layout,Bengaluru,4.8,1319,CrossFit Box,+91 9876542253,fit406@example.com,https://fitness406.example.com,7 AM - 9 PM,Mid
+357,Fitness Centre 407,"84, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,1244,Dance / Zumba Studio,+91 9876514709,fit407@example.com,https://fitness407.example.com,24 Hours,Budget
+358,Fitness Centre 408,"2, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,1243,Gym / Fitness Studio,+91 9876511539,fit408@example.com,https://fitness408.example.com,6 AM - 10 PM,Mid
+359,Fitness Centre 409,"16, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,617,Gym / Fitness Studio,+91 9876597521,fit409@example.com,https://fitness409.example.com,7 AM - 9 PM,Mid
+360,Fitness Centre 410,"52, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1681,CrossFit Box,+91 9876549129,fit410@example.com,https://fitness410.example.com,24 Hours,Mid
+361,Fitness Centre 411,"8, Main Road, Bengaluru",Koramangala,Bengaluru,4.3,2486,Yoga Studio,+91 9876560852,fit411@example.com,https://fitness411.example.com,7 AM - 9 PM,Budget
+362,Fitness Centre 412,"9, Main Road, Bengaluru",HSR Layout,Bengaluru,4.6,1475,Gym / Fitness Studio,+91 9876594690,fit412@example.com,https://fitness412.example.com,7 AM - 9 PM,Premium
+363,Fitness Centre 413,"41, Main Road, Bengaluru",Jayanagar,Bengaluru,4.7,1562,CrossFit Box,+91 9876531335,fit413@example.com,https://fitness413.example.com,7 AM - 9 PM,Premium
+364,Fitness Centre 414,"94, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,1486,Dance / Zumba Studio,+91 9876596051,fit414@example.com,https://fitness414.example.com,7 AM - 9 PM,Mid
+365,Fitness Centre 415,"6, Main Road, Bengaluru",HSR Layout,Bengaluru,4.3,2432,Gym / Fitness Studio,+91 9876545285,fit415@example.com,https://fitness415.example.com,6 AM - 10 PM,Budget
+366,Fitness Centre 416,"31, Main Road, Bengaluru",Jayanagar,Bengaluru,3.8,1959,Gym / Fitness Studio,+91 9876566400,fit416@example.com,https://fitness416.example.com,7 AM - 9 PM,Premium
+367,Fitness Centre 417,"54, Main Road, Bengaluru",BTM Layout,Bengaluru,3.8,1908,Gym / Fitness Studio,+91 9876580045,fit417@example.com,https://fitness417.example.com,7 AM - 9 PM,Mid
+368,Fitness Centre 418,"98, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,2269,CrossFit Box,+91 9876510015,fit418@example.com,https://fitness418.example.com,24 Hours,Premium
+369,Fitness Centre 419,"63, Main Road, Bengaluru",HSR Layout,Bengaluru,4.3,2272,Dance / Zumba Studio,+91 9876518672,fit419@example.com,https://fitness419.example.com,6 AM - 10 PM,Mid
+370,Fitness Centre 420,"11, Main Road, Bengaluru",BTM Layout,Bengaluru,4.1,2060,CrossFit Box,+91 9876520189,fit420@example.com,https://fitness420.example.com,7 AM - 9 PM,Mid
+371,Fitness Centre 421,"38, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,1518,Gym / Fitness Studio,+91 9876560196,fit421@example.com,https://fitness421.example.com,5 AM - 11 PM,Mid
+372,Fitness Centre 422,"86, Main Road, Bengaluru",Whitefield,Bengaluru,3.9,1520,Yoga Studio,+91 9876557742,fit422@example.com,https://fitness422.example.com,5 AM - 11 PM,Premium
+373,Fitness Centre 423,"69, Main Road, Bengaluru",Whitefield,Bengaluru,4,2448,Dance / Zumba Studio,+91 9876523944,fit423@example.com,https://fitness423.example.com,24 Hours,Budget
+374,Fitness Centre 424,"32, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1453,CrossFit Box,+91 9876518319,fit424@example.com,https://fitness424.example.com,6 AM - 10 PM,Premium
+375,Fitness Centre 425,"73, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,1311,Dance / Zumba Studio,+91 9876583299,fit425@example.com,https://fitness425.example.com,6 AM - 10 PM,Budget
+376,Fitness Centre 426,"29, Main Road, Bengaluru",Jayanagar,Bengaluru,4,2483,CrossFit Box,+91 9876594028,fit426@example.com,https://fitness426.example.com,24 Hours,Premium
+377,Fitness Centre 427,"25, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,1919,Gym / Fitness Studio,+91 9876524169,fit427@example.com,https://fitness427.example.com,24 Hours,Premium
+378,Fitness Centre 428,"25, Main Road, Bengaluru",HSR Layout,Bengaluru,4,2066,Dance / Zumba Studio,+91 9876588827,fit428@example.com,https://fitness428.example.com,6 AM - 10 PM,Mid
+379,Fitness Centre 429,"24, Main Road, Bengaluru",Koramangala,Bengaluru,4.7,621,Dance / Zumba Studio,+91 9876557881,fit429@example.com,https://fitness429.example.com,5 AM - 11 PM,Budget
+380,Fitness Centre 430,"80, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1541,Yoga Studio,+91 9876550329,fit430@example.com,https://fitness430.example.com,6 AM - 10 PM,Mid
+381,Fitness Centre 431,"26, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,710,Gym / Fitness Studio,+91 9876561634,fit431@example.com,https://fitness431.example.com,5 AM - 11 PM,Budget
+382,Fitness Centre 432,"12, Main Road, Bengaluru",Indiranagar,Bengaluru,4.2,2376,Dance / Zumba Studio,+91 9876589989,fit432@example.com,https://fitness432.example.com,5 AM - 11 PM,Budget
+383,Fitness Centre 433,"86, Main Road, Bengaluru",Koramangala,Bengaluru,4.4,1421,CrossFit Box,+91 9876544616,fit433@example.com,https://fitness433.example.com,5 AM - 11 PM,Premium
+384,Fitness Centre 434,"85, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,1086,Dance / Zumba Studio,+91 9876543739,fit434@example.com,https://fitness434.example.com,6 AM - 10 PM,Budget
+385,Fitness Centre 435,"78, Main Road, Bengaluru",HSR Layout,Bengaluru,4.1,727,Yoga Studio,+91 9876573791,fit435@example.com,https://fitness435.example.com,6 AM - 10 PM,Mid
+386,Fitness Centre 436,"1, Main Road, Bengaluru",HSR Layout,Bengaluru,4.4,1946,Gym / Fitness Studio,+91 9876567606,fit436@example.com,https://fitness436.example.com,6 AM - 10 PM,Mid
+387,Fitness Centre 437,"63, Main Road, Bengaluru",Indiranagar,Bengaluru,3.8,1875,CrossFit Box,+91 9876588049,fit437@example.com,https://fitness437.example.com,5 AM - 11 PM,Mid
+388,Fitness Centre 438,"76, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,1653,Dance / Zumba Studio,+91 9876570463,fit438@example.com,https://fitness438.example.com,5 AM - 11 PM,Premium
+389,Fitness Centre 439,"18, Main Road, Bengaluru",HSR Layout,Bengaluru,4.3,880,CrossFit Box,+91 9876553590,fit439@example.com,https://fitness439.example.com,7 AM - 9 PM,Premium
+390,Fitness Centre 440,"26, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,2403,Yoga Studio,+91 9876599497,fit440@example.com,https://fitness440.example.com,5 AM - 11 PM,Premium
+391,Fitness Centre 441,"36, Main Road, Bengaluru",HSR Layout,Bengaluru,4.7,2153,Dance / Zumba Studio,+91 9876589415,fit441@example.com,https://fitness441.example.com,24 Hours,Budget
+392,Fitness Centre 442,"21, Main Road, Bengaluru",BTM Layout,Bengaluru,4.5,1439,CrossFit Box,+91 9876584440,fit442@example.com,https://fitness442.example.com,7 AM - 9 PM,Budget
+393,Fitness Centre 443,"78, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,2036,CrossFit Box,+91 9876548630,fit443@example.com,https://fitness443.example.com,24 Hours,Mid
+394,Fitness Centre 444,"17, Main Road, Bengaluru",BTM Layout,Bengaluru,4.7,817,Gym / Fitness Studio,+91 9876515957,fit444@example.com,https://fitness444.example.com,7 AM - 9 PM,Budget
+395,Fitness Centre 445,"86, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,789,CrossFit Box,+91 9876575137,fit445@example.com,https://fitness445.example.com,6 AM - 10 PM,Mid
+396,Fitness Centre 446,"9, Main Road, Bengaluru",Whitefield,Bengaluru,4.3,1921,Yoga Studio,+91 9876568588,fit446@example.com,https://fitness446.example.com,5 AM - 11 PM,Mid
+397,Fitness Centre 447,"22, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,1124,Yoga Studio,+91 9876561395,fit447@example.com,https://fitness447.example.com,24 Hours,Premium
+398,Fitness Centre 448,"75, Main Road, Bengaluru",BTM Layout,Bengaluru,4.4,946,Dance / Zumba Studio,+91 9876542186,fit448@example.com,https://fitness448.example.com,24 Hours,Budget
+399,Fitness Centre 449,"99, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,2446,Yoga Studio,+91 9876590442,fit449@example.com,https://fitness449.example.com,24 Hours,Premium
+400,Fitness Centre 450,"1, Main Road, Bengaluru",BTM Layout,Bengaluru,4.6,1761,Dance / Zumba Studio,+91 9876532541,fit450@example.com,https://fitness450.example.com,6 AM - 10 PM,Mid
+401,Fitness Centre 451,"5, Main Road, Bengaluru",Indiranagar,Bengaluru,4.4,1449,CrossFit Box,+91 9876580226,fit451@example.com,https://fitness451.example.com,24 Hours,Mid
+402,Fitness Centre 452,"39, Main Road, Bengaluru",Whitefield,Bengaluru,3.9,2236,Dance / Zumba Studio,+91 9876510802,fit452@example.com,https://fitness452.example.com,7 AM - 9 PM,Budget
+403,Fitness Centre 453,"74, Main Road, Bengaluru",Jayanagar,Bengaluru,4.2,2392,Gym / Fitness Studio,+91 9876510147,fit453@example.com,https://fitness453.example.com,24 Hours,Premium
+404,Fitness Centre 454,"44, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,1636,Yoga Studio,+91 9876598677,fit454@example.com,https://fitness454.example.com,24 Hours,Premium
+405,Fitness Centre 455,"5, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,921,CrossFit Box,+91 9876537247,fit455@example.com,https://fitness455.example.com,24 Hours,Mid
+406,Fitness Centre 456,"5, Main Road, Bengaluru",Indiranagar,Bengaluru,4.4,948,Dance / Zumba Studio,+91 9876541094,fit456@example.com,https://fitness456.example.com,24 Hours,Mid
+407,Fitness Centre 457,"32, Main Road, Bengaluru",BTM Layout,Bengaluru,4.4,845,CrossFit Box,+91 9876576700,fit457@example.com,https://fitness457.example.com,6 AM - 10 PM,Budget
+408,Fitness Centre 458,"35, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,2109,Yoga Studio,+91 9876535662,fit458@example.com,https://fitness458.example.com,6 AM - 10 PM,Budget
+409,Fitness Centre 459,"29, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,2229,Gym / Fitness Studio,+91 9876531206,fit459@example.com,https://fitness459.example.com,5 AM - 11 PM,Budget
+410,Fitness Centre 460,"71, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1777,CrossFit Box,+91 9876520139,fit460@example.com,https://fitness460.example.com,5 AM - 11 PM,Premium
+411,Fitness Centre 461,"45, Main Road, Bengaluru",Koramangala,Bengaluru,4,1536,Yoga Studio,+91 9876522152,fit461@example.com,https://fitness461.example.com,7 AM - 9 PM,Budget
+412,Fitness Centre 462,"41, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,2465,Dance / Zumba Studio,+91 9876588154,fit462@example.com,https://fitness462.example.com,24 Hours,Mid
+413,Fitness Centre 463,"5, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,2394,Gym / Fitness Studio,+91 9876556276,fit463@example.com,https://fitness463.example.com,6 AM - 10 PM,Budget
+414,Fitness Centre 464,"75, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1663,Yoga Studio,+91 9876590155,fit464@example.com,https://fitness464.example.com,24 Hours,Premium
+415,Fitness Centre 465,"89, Main Road, Bengaluru",BTM Layout,Bengaluru,4.1,2143,Gym / Fitness Studio,+91 9876580452,fit465@example.com,https://fitness465.example.com,24 Hours,Budget
+416,Fitness Centre 466,"7, Main Road, Bengaluru",HSR Layout,Bengaluru,4.6,654,Yoga Studio,+91 9876514709,fit466@example.com,https://fitness466.example.com,6 AM - 10 PM,Budget
+417,Fitness Centre 467,"72, Main Road, Bengaluru",Koramangala,Bengaluru,4.8,1701,Dance / Zumba Studio,+91 9876545520,fit467@example.com,https://fitness467.example.com,24 Hours,Premium
+418,Fitness Centre 468,"14, Main Road, Bengaluru",BTM Layout,Bengaluru,4.4,2263,Dance / Zumba Studio,+91 9876596634,fit468@example.com,https://fitness468.example.com,7 AM - 9 PM,Premium
+419,Fitness Centre 469,"29, Main Road, Bengaluru",Koramangala,Bengaluru,4.8,1875,CrossFit Box,+91 9876582789,fit469@example.com,https://fitness469.example.com,6 AM - 10 PM,Budget
+420,Fitness Centre 470,"32, Main Road, Bengaluru",BTM Layout,Bengaluru,4.7,1260,Dance / Zumba Studio,+91 9876578702,fit470@example.com,https://fitness470.example.com,24 Hours,Mid
+421,Fitness Centre 471,"89, Main Road, Bengaluru",Indiranagar,Bengaluru,4,2132,Yoga Studio,+91 9876510550,fit471@example.com,https://fitness471.example.com,24 Hours,Mid
+422,Fitness Centre 472,"55, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,1188,Gym / Fitness Studio,+91 9876538049,fit472@example.com,https://fitness472.example.com,6 AM - 10 PM,Budget
+423,Fitness Centre 473,"56, Main Road, Bengaluru",HSR Layout,Bengaluru,4.2,1269,CrossFit Box,+91 9876521503,fit473@example.com,https://fitness473.example.com,5 AM - 11 PM,Mid
+424,Fitness Centre 474,"16, Main Road, Bengaluru",BTM Layout,Bengaluru,4.4,2164,CrossFit Box,+91 9876553807,fit474@example.com,https://fitness474.example.com,6 AM - 10 PM,Budget
+425,Fitness Centre 475,"14, Main Road, Bengaluru",BTM Layout,Bengaluru,4,1177,CrossFit Box,+91 9876571722,fit475@example.com,https://fitness475.example.com,6 AM - 10 PM,Budget
+426,Fitness Centre 476,"59, Main Road, Bengaluru",Indiranagar,Bengaluru,3.9,1354,Dance / Zumba Studio,+91 9876567600,fit476@example.com,https://fitness476.example.com,7 AM - 9 PM,Premium
+427,Fitness Centre 477,"67, Main Road, Bengaluru",HSR Layout,Bengaluru,4.6,1552,Yoga Studio,+91 9876512431,fit477@example.com,https://fitness477.example.com,5 AM - 11 PM,Budget
+428,Fitness Centre 478,"35, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,1065,Dance / Zumba Studio,+91 9876596212,fit478@example.com,https://fitness478.example.com,24 Hours,Mid
+429,Fitness Centre 479,"88, Main Road, Bengaluru",BTM Layout,Bengaluru,3.9,843,CrossFit Box,+91 9876532632,fit479@example.com,https://fitness479.example.com,24 Hours,Mid
+430,Fitness Centre 480,"51, Main Road, Bengaluru",Koramangala,Bengaluru,4.8,2235,Dance / Zumba Studio,+91 9876519648,fit480@example.com,https://fitness480.example.com,6 AM - 10 PM,Budget
+431,Fitness Centre 481,"27, Main Road, Bengaluru",HSR Layout,Bengaluru,4.4,1142,Dance / Zumba Studio,+91 9876575369,fit481@example.com,https://fitness481.example.com,5 AM - 11 PM,Mid
+432,Fitness Centre 482,"73, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,2146,Yoga Studio,+91 9876527430,fit482@example.com,https://fitness482.example.com,7 AM - 9 PM,Budget
+433,Fitness Centre 483,"74, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,1100,Dance / Zumba Studio,+91 9876590177,fit483@example.com,https://fitness483.example.com,24 Hours,Budget
+434,Fitness Centre 484,"16, Main Road, Bengaluru",HSR Layout,Bengaluru,4.7,938,Dance / Zumba Studio,+91 9876558610,fit484@example.com,https://fitness484.example.com,6 AM - 10 PM,Budget
+435,Fitness Centre 485,"69, Main Road, Bengaluru",BTM Layout,Bengaluru,3.8,2050,CrossFit Box,+91 9876594651,fit485@example.com,https://fitness485.example.com,6 AM - 10 PM,Premium
+436,Fitness Centre 486,"67, Main Road, Bengaluru",Jayanagar,Bengaluru,4.2,2217,CrossFit Box,+91 9876587638,fit486@example.com,https://fitness486.example.com,24 Hours,Mid
+437,Fitness Centre 487,"88, Main Road, Bengaluru",Koramangala,Bengaluru,4.4,2496,Yoga Studio,+91 9876586346,fit487@example.com,https://fitness487.example.com,24 Hours,Premium
+438,Fitness Centre 488,"54, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1117,Yoga Studio,+91 9876524334,fit488@example.com,https://fitness488.example.com,6 AM - 10 PM,Premium
+439,Fitness Centre 489,"93, Main Road, Bengaluru",Koramangala,Bengaluru,4.4,1680,Yoga Studio,+91 9876556237,fit489@example.com,https://fitness489.example.com,24 Hours,Mid
+440,Fitness Centre 490,"2, Main Road, Bengaluru",Koramangala,Bengaluru,3.8,1559,Gym / Fitness Studio,+91 9876515468,fit490@example.com,https://fitness490.example.com,5 AM - 11 PM,Budget
+441,Fitness Centre 491,"59, Main Road, Bengaluru",Koramangala,Bengaluru,4.3,1326,CrossFit Box,+91 9876517915,fit491@example.com,https://fitness491.example.com,5 AM - 11 PM,Mid
+442,Fitness Centre 492,"90, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1924,Dance / Zumba Studio,+91 9876599471,fit492@example.com,https://fitness492.example.com,6 AM - 10 PM,Budget
+443,Fitness Centre 493,"86, Main Road, Bengaluru",Indiranagar,Bengaluru,4.3,2456,Gym / Fitness Studio,+91 9876523396,fit493@example.com,https://fitness493.example.com,6 AM - 10 PM,Premium
+444,Fitness Centre 494,"86, Main Road, Bengaluru",Whitefield,Bengaluru,3.9,1450,Gym / Fitness Studio,+91 9876588559,fit494@example.com,https://fitness494.example.com,6 AM - 10 PM,Mid
+445,Fitness Centre 495,"87, Main Road, Bengaluru",Indiranagar,Bengaluru,4,1393,Yoga Studio,+91 9876582758,fit495@example.com,https://fitness495.example.com,6 AM - 10 PM,Mid
+446,Fitness Centre 496,"12, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,1014,CrossFit Box,+91 9876595930,fit496@example.com,https://fitness496.example.com,24 Hours,Premium
+447,Fitness Centre 497,"63, Main Road, Bengaluru",Indiranagar,Bengaluru,4.6,2314,Gym / Fitness Studio,+91 9876519910,fit497@example.com,https://fitness497.example.com,6 AM - 10 PM,Premium
+448,Fitness Centre 498,"3, Main Road, Bengaluru",Koramangala,Bengaluru,4.2,2223,Gym / Fitness Studio,+91 9876553554,fit498@example.com,https://fitness498.example.com,24 Hours,Mid
+449,Fitness Centre 499,"99, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,2017,Gym / Fitness Studio,+91 9876575390,fit499@example.com,https://fitness499.example.com,7 AM - 9 PM,Mid
+450,Fitness Centre 500,"18, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,2439,Dance / Zumba Studio,+91 9876531890,fit500@example.com,https://fitness500.example.com,7 AM - 9 PM,Budget
+451,Fitness Centre 501,"13, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,1491,Yoga Studio,+91 9876528035,fit501@example.com,https://fitness501.example.com,5 AM - 11 PM,Budget
+452,Fitness Centre 502,"30, Main Road, Bengaluru",Koramangala,Bengaluru,4.2,2346,Gym / Fitness Studio,+91 9876572711,fit502@example.com,https://fitness502.example.com,6 AM - 10 PM,Premium
+453,Fitness Centre 503,"25, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,1489,Yoga Studio,+91 9876517705,fit503@example.com,https://fitness503.example.com,6 AM - 10 PM,Budget
+454,Fitness Centre 504,"31, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,1166,Gym / Fitness Studio,+91 9876565362,fit504@example.com,https://fitness504.example.com,5 AM - 11 PM,Premium
+455,Fitness Centre 505,"19, Main Road, Bengaluru",HSR Layout,Bengaluru,3.9,1303,Gym / Fitness Studio,+91 9876561838,fit505@example.com,https://fitness505.example.com,6 AM - 10 PM,Premium
+456,Fitness Centre 506,"10, Main Road, Bengaluru",HSR Layout,Bengaluru,4.4,1192,Dance / Zumba Studio,+91 9876526625,fit506@example.com,https://fitness506.example.com,24 Hours,Premium
+457,Fitness Centre 507,"10, Main Road, Bengaluru",HSR Layout,Bengaluru,4.7,1101,CrossFit Box,+91 9876579943,fit507@example.com,https://fitness507.example.com,6 AM - 10 PM,Premium
+458,Fitness Centre 508,"6, Main Road, Bengaluru",Indiranagar,Bengaluru,4.1,639,Gym / Fitness Studio,+91 9876535373,fit508@example.com,https://fitness508.example.com,24 Hours,Mid
+459,Fitness Centre 509,"49, Main Road, Bengaluru",BTM Layout,Bengaluru,3.9,2496,Dance / Zumba Studio,+91 9876548656,fit509@example.com,https://fitness509.example.com,7 AM - 9 PM,Premium
+460,Fitness Centre 510,"21, Main Road, Bengaluru",Whitefield,Bengaluru,4.4,1469,Dance / Zumba Studio,+91 9876516609,fit510@example.com,https://fitness510.example.com,6 AM - 10 PM,Mid
+461,Fitness Centre 511,"43, Main Road, Bengaluru",Whitefield,Bengaluru,4.4,1681,Dance / Zumba Studio,+91 9876528391,fit511@example.com,https://fitness511.example.com,6 AM - 10 PM,Budget
+462,Fitness Centre 512,"28, Main Road, Bengaluru",Jayanagar,Bengaluru,4.5,1364,CrossFit Box,+91 9876578841,fit512@example.com,https://fitness512.example.com,24 Hours,Budget
+463,Fitness Centre 513,"92, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,644,CrossFit Box,+91 9876551930,fit513@example.com,https://fitness513.example.com,7 AM - 9 PM,Premium
+464,Fitness Centre 514,"75, Main Road, Bengaluru",Whitefield,Bengaluru,4.6,1326,CrossFit Box,+91 9876577437,fit514@example.com,https://fitness514.example.com,24 Hours,Mid
+465,Fitness Centre 515,"4, Main Road, Bengaluru",HSR Layout,Bengaluru,4.2,2260,Gym / Fitness Studio,+91 9876573192,fit515@example.com,https://fitness515.example.com,7 AM - 9 PM,Mid
+466,Fitness Centre 516,"97, Main Road, Bengaluru",Whitefield,Bengaluru,4.1,560,Dance / Zumba Studio,+91 9876550746,fit516@example.com,https://fitness516.example.com,5 AM - 11 PM,Premium
+467,Fitness Centre 517,"60, Main Road, Bengaluru",Koramangala,Bengaluru,4.1,581,CrossFit Box,+91 9876588259,fit517@example.com,https://fitness517.example.com,24 Hours,Premium
+468,Fitness Centre 518,"52, Main Road, Bengaluru",Whitefield,Bengaluru,4.4,726,Dance / Zumba Studio,+91 9876561383,fit518@example.com,https://fitness518.example.com,7 AM - 9 PM,Mid
+469,Fitness Centre 519,"19, Main Road, Bengaluru",Indiranagar,Bengaluru,4,650,Dance / Zumba Studio,+91 9876548433,fit519@example.com,https://fitness519.example.com,5 AM - 11 PM,Budget
+470,Fitness Centre 520,"34, Main Road, Bengaluru",Jayanagar,Bengaluru,4.3,925,Yoga Studio,+91 9876594760,fit520@example.com,https://fitness520.example.com,6 AM - 10 PM,Premium
+471,Fitness Centre 521,"43, Main Road, Bengaluru",Jayanagar,Bengaluru,4.2,2166,Yoga Studio,+91 9876524923,fit521@example.com,https://fitness521.example.com,7 AM - 9 PM,Premium
+472,Fitness Centre 522,"94, Main Road, Bengaluru",Indiranagar,Bengaluru,3.9,877,Yoga Studio,+91 9876524959,fit522@example.com,https://fitness522.example.com,24 Hours,Mid
+473,Fitness Centre 523,"39, Main Road, Bengaluru",BTM Layout,Bengaluru,4.4,1938,Dance / Zumba Studio,+91 9876599880,fit523@example.com,https://fitness523.example.com,24 Hours,Mid
+474,Fitness Centre 524,"76, Main Road, Bengaluru",Indiranagar,Bengaluru,4,2284,Dance / Zumba Studio,+91 9876598686,fit524@example.com,https://fitness524.example.com,7 AM - 9 PM,Budget
+475,Fitness Centre 525,"97, Main Road, Bengaluru",Indiranagar,Bengaluru,4,609,CrossFit Box,+91 9876528427,fit525@example.com,https://fitness525.example.com,6 AM - 10 PM,Budget
+476,Fitness Centre 526,"58, Main Road, Bengaluru",BTM Layout,Bengaluru,4.1,714,Dance / Zumba Studio,+91 9876515898,fit526@example.com,https://fitness526.example.com,24 Hours,Budget
+477,Fitness Centre 527,"94, Main Road, Bengaluru",Koramangala,Bengaluru,4.5,2100,Dance / Zumba Studio,+91 9876523792,fit527@example.com,https://fitness527.example.com,7 AM - 9 PM,Premium
+478,Fitness Centre 528,"76, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1232,Dance / Zumba Studio,+91 9876586080,fit528@example.com,https://fitness528.example.com,24 Hours,Budget
+479,Fitness Centre 529,"88, Main Road, Bengaluru",Indiranagar,Bengaluru,4.7,805,Yoga Studio,+91 9876552473,fit529@example.com,https://fitness529.example.com,5 AM - 11 PM,Mid
+480,Fitness Centre 530,"35, Main Road, Bengaluru",BTM Layout,Bengaluru,4.3,2358,Yoga Studio,+91 9876569324,fit530@example.com,https://fitness530.example.com,7 AM - 9 PM,Premium
+481,Fitness Centre 531,"72, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,2234,Yoga Studio,+91 9876518654,fit531@example.com,https://fitness531.example.com,6 AM - 10 PM,Premium
+482,Fitness Centre 532,"67, Main Road, Bengaluru",Jayanagar,Bengaluru,4.2,2163,CrossFit Box,+91 9876512792,fit532@example.com,https://fitness532.example.com,24 Hours,Mid
+483,Fitness Centre 533,"27, Main Road, Bengaluru",HSR Layout,Bengaluru,4.3,1550,Dance / Zumba Studio,+91 9876555821,fit533@example.com,https://fitness533.example.com,7 AM - 9 PM,Budget
+484,Fitness Centre 534,"93, Main Road, Bengaluru",Whitefield,Bengaluru,4.5,2452,Yoga Studio,+91 9876522927,fit534@example.com,https://fitness534.example.com,5 AM - 11 PM,Premium
+485,Fitness Centre 535,"8, Main Road, Bengaluru",Indiranagar,Bengaluru,4,2008,Dance / Zumba Studio,+91 9876520709,fit535@example.com,https://fitness535.example.com,6 AM - 10 PM,Premium
+486,Fitness Centre 536,"11, Main Road, Bengaluru",Koramangala,Bengaluru,4.4,1150,Yoga Studio,+91 9876541302,fit536@example.com,https://fitness536.example.com,24 Hours,Premium
+487,Fitness Centre 537,"71, Main Road, Bengaluru",HSR Layout,Bengaluru,4.5,1144,Dance / Zumba Studio,+91 9876527028,fit537@example.com,https://fitness537.example.com,5 AM - 11 PM,Budget
+488,Fitness Centre 538,"72, Main Road, Bengaluru",Indiranagar,Bengaluru,3.8,1223,Dance / Zumba Studio,+91 9876591022,fit538@example.com,https://fitness538.example.com,6 AM - 10 PM,Mid
+489,Fitness Centre 539,"9, Main Road, Bengaluru",Koramangala,Bengaluru,4,2072,CrossFit Box,+91 9876594049,fit539@example.com,https://fitness539.example.com,6 AM - 10 PM,Budget
+490,Fitness Centre 540,"98, Main Road, Bengaluru",Jayanagar,Bengaluru,4,1364,Gym / Fitness Studio,+91 9876519937,fit540@example.com,https://fitness540.example.com,5 AM - 11 PM,Budget
+491,Fitness Centre 541,"36, Main Road, Bengaluru",Indiranagar,Bengaluru,4.3,1525,Yoga Studio,+91 9876555250,fit541@example.com,https://fitness541.example.com,24 Hours,Budget
+492,Fitness Centre 542,"29, Main Road, Bengaluru",Indiranagar,Bengaluru,4.8,1817,Gym / Fitness Studio,+91 9876592263,fit542@example.com,https://fitness542.example.com,7 AM - 9 PM,Premium
+493,Fitness Centre 543,"57, Main Road, Bengaluru",Jayanagar,Bengaluru,4.1,1855,Dance / Zumba Studio,+91 9876546381,fit543@example.com,https://fitness543.example.com,7 AM - 9 PM,Mid
+494,Fitness Centre 544,"35, Main Road, Bengaluru",Whitefield,Bengaluru,3.8,629,CrossFit Box,+91 9876519226,fit544@example.com,https://fitness544.example.com,5 AM - 11 PM,Budget
+495,Fitness Centre 545,"37, Main Road, Bengaluru",Jayanagar,Bengaluru,4.4,2325,Gym / Fitness Studio,+91 9876594765,fit545@example.com,https://fitness545.example.com,24 Hours,Mid
+496,Fitness Centre 546,"25, Main Road, Bengaluru",Jayanagar,Bengaluru,4.6,1414,Yoga Studio,+91 9876538052,fit546@example.com,https://fitness546.example.com,5 AM - 11 PM,Budget
+497,Fitness Centre 547,"65, Main Road, Bengaluru",HSR Layout,Bengaluru,3.8,1749,Gym / Fitness Studio,+91 9876519875,fit547@example.com,https://fitness547.example.com,24 Hours,Budget
+498,Fitness Centre 548,"82, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,1722,Dance / Zumba Studio,+91 9876589670,fit548@example.com,https://fitness548.example.com,5 AM - 11 PM,Premium
+499,Fitness Centre 549,"51, Main Road, Bengaluru",BTM Layout,Bengaluru,4.5,2364,CrossFit Box,+91 9876567853,fit549@example.com,https://fitness549.example.com,24 Hours,Premium
+500,Fitness Centre 550,"41, Main Road, Bengaluru",Whitefield,Bengaluru,4.7,1077,Dance / Zumba Studio,+91 9876591739,fit550@example.com,https://fitness550.example.com,24 Hours,Budget
